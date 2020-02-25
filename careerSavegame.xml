@@ -1,32 +1,32 @@
 ﻿<careerSavegame revision="2" valid="true">
     <settings>
-        <savegameName>M�j zapis gry</savegameName>
+        <savegameName>Mój zapis gry</savegameName>
         <mapId>MapDE</mapId>
         <mapTitle>Felsbrunn</mapTitle>
         <saveDate>25/02/2020</saveDate>
         <playerModelIndex>1</playerModelIndex>
         <playerColorIndex>2</playerColorIndex>
-        <playerBodyIndex>2</playerBodyIndex>
+        <playerBodyIndex>1</playerBodyIndex>
         <playerHatIndex>0</playerHatIndex>
         <playerAccessoryIndex>0</playerAccessoryIndex>
-        <playerHairIndex>4</playerHairIndex>
+        <playerHairIndex>1</playerHairIndex>
         <playerJacketIndex>0</playerJacketIndex>
-        <playerName>?ukaszek</playerName>
+        <playerName>Bartuś</playerName>
         <resetVehicles>false</resetVehicles>
         <isPlantWitheringEnabled>false</isPlantWitheringEnabled>
         <trafficEnabled>true</trafficEnabled>
-        <stopAndGoBraking>true</stopAndGoBraking>
+        <stopAndGoBraking>false</stopAndGoBraking>
         <automaticMotorStartEnabled>true</automaticMotorStartEnabled>
         <fruitDestruction>true</fruitDestruction>
         <plowingRequiredEnabled>true</plowingRequiredEnabled>
         <weedsEnabled>true</weedsEnabled>
-        <limeRequired>true</limeRequired>
-        <fuelUsageLow>false</fuelUsageLow>
+        <limeRequired>false</limeRequired>
+        <fuelUsageLow>true</fuelUsageLow>
         <helperBuyFuel>true</helperBuyFuel>
         <helperBuySeeds>true</helperBuySeeds>
         <helperBuyFertilizer>true</helperBuyFertilizer>
-        <helperSlurrySource>1</helperSlurrySource>
-        <helperManureSource>1</helperManureSource>
+        <helperSlurrySource>2</helperSlurrySource>
+        <helperManureSource>2</helperManureSource>
         <densityMapRevision>3</densityMapRevision>
         <terrainLodTextureRevision>2</terrainLodTextureRevision>
         <splitShapesRevision>1</splitShapesRevision>
@@ -37,26 +37,21 @@
         <mapSplitShapesRevision>1</mapSplitShapesRevision>
         <mapTipCollisionRevision>1</mapTipCollisionRevision>
         <mapPlacementCollisionRevision>1</mapPlacementCollisionRevision>
-        <difficulty>2</difficulty>
+        <difficulty>3</difficulty>
         <economicDifficulty>2</economicDifficulty>
-        <plantGrowthRate>3</plantGrowthRate>
+        <plantGrowthRate>4</plantGrowthRate>
         <dirtInterval>3</dirtInterval>
-        <timeScale>5.000000</timeScale>
+        <timeScale>1.000000</timeScale>
         <autoSaveInterval>15.000000</autoSaveInterval>
     </settings>
     <map>
         <foundHelpIcons>00000000000000000000</foundHelpIcons>
     </map>
     <statistics>
-        <money>34780</money>
-        <playTime>2740.142578</playTime>
+        <money>11020</money>
+        <playTime>1132.579834</playTime>
     </statistics>
     <mapsSplitShapeFileIds count="1">
         <id id="0"/>
     </mapsSplitShapeFileIds>
-    <mod modName="FS19_ursusT127" title="Ursus T127" version="1.0.0.0" required="false" fileHash="67e4b7396237f45245a1d61d93f81788"/>
-    <mod modName="FS19_flieglDPW180" title="Fliegl DPW 180" version="1.0.0.0" required="false" fileHash="857b54460affdb9bdc39026c8300e9be"/>
-    <mod modName="fs19_fraese" title="Milling Machine" version="1.0.0.0" required="false" fileHash="3353695f97c8f3c9b0de875e2f5540d1"/>
-    <mod modName="FS19_FI_FeedMixers" title="Animal Feed Mixers" version="1.0.0.0" required="false" fileHash="764f56691c0303363470418ce7bcf959"/>
-    <mod modName="FS19_FollowMe" title="Follow Me" version="1.6.0.29" required="false" fileHash="e399c9089ef81c9179a21a215170f672"/>
 </careerSavegame>
