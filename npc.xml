@@ -24,18 +24,18 @@
     <npc name="NPC_DE_04" finishedMissions="0"/>
     <npc name="NPC_DE_05" finishedMissions="0"/>
     <npc name="NPC_DE_06" finishedMissions="0"/>
-    <npc name="NPC_DE_07" finishedMissions="1"/>
+    <npc name="NPC_DE_07" finishedMissions="3"/>
     <npc name="NPC_DE_08" finishedMissions="0"/>
-    <npc name="NPC_DE_09" finishedMissions="2"/>
-    <npc name="NPC_DE_10" finishedMissions="6"/>
-    <npc name="NPC_DE_11" finishedMissions="0"/>
-    <npc name="NPC_DE_12" finishedMissions="2"/>
-    <npc name="NPC_DE_13" finishedMissions="0"/>
-    <npc name="NPC_DE_14" finishedMissions="1"/>
-    <npc name="NPC_DE_15" finishedMissions="2"/>
+    <npc name="NPC_DE_09" finishedMissions="3"/>
+    <npc name="NPC_DE_10" finishedMissions="3"/>
+    <npc name="NPC_DE_11" finishedMissions="3"/>
+    <npc name="NPC_DE_12" finishedMissions="1"/>
+    <npc name="NPC_DE_13" finishedMissions="1"/>
+    <npc name="NPC_DE_14" finishedMissions="3"/>
+    <npc name="NPC_DE_15" finishedMissions="0"/>
     <npc name="NPC_DE_16" finishedMissions="0"/>
     <npc name="NPC_DE_17" finishedMissions="0"/>
-    <npc name="NPC_DE_18" finishedMissions="0"/>
+    <npc name="NPC_DE_18" finishedMissions="1"/>
     <npc name="NPC_DE_19" finishedMissions="0"/>
     <npc name="NPC_DE_20" finishedMissions="0"/>
 </npcs>

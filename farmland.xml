@@ -1,7 +1,7 @@
 ﻿<farmlands>
     <farmland id="1" farmId="0"/>
     <farmland id="2" farmId="0"/>
-    <farmland id="3" farmId="1"/>
+    <farmland id="3" farmId="0"/>
     <farmland id="4" farmId="0"/>
     <farmland id="5" farmId="0"/>
     <farmland id="6" farmId="0"/>
@@ -18,7 +18,7 @@
     <farmland id="17" farmId="0"/>
     <farmland id="18" farmId="0"/>
     <farmland id="19" farmId="0"/>
-    <farmland id="20" farmId="0"/>
+    <farmland id="20" farmId="1"/>
     <farmland id="21" farmId="0"/>
     <farmland id="22" farmId="0"/>
     <farmland id="23" farmId="0"/>
@@ -28,10 +28,10 @@
     <farmland id="27" farmId="0"/>
     <farmland id="28" farmId="0"/>
     <farmland id="29" farmId="1"/>
-    <farmland id="30" farmId="1"/>
+    <farmland id="30" farmId="0"/>
     <farmland id="31" farmId="1"/>
-    <farmland id="32" farmId="1"/>
-    <farmland id="33" farmId="1"/>
+    <farmland id="32" farmId="0"/>
+    <farmland id="33" farmId="0"/>
     <farmland id="34" farmId="0"/>
     <farmland id="35" farmId="0"/>
     <farmland id="36" farmId="0"/>
