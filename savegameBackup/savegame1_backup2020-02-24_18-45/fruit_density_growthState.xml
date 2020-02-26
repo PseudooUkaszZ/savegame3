@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<foliageCropsUpdater currentGrowthIndex="13092">
+  <cropsState index="0" normalizedGrowthTimer="0.100346"/>
+  <cropsState index="1" normalizedGrowthTimer="0.084845"/>
+  <cropsState index="2" normalizedGrowthTimer="0.100346"/>
+  <cropsState index="3" normalizedGrowthTimer="0.100346"/>
+  <cropsState index="4" normalizedGrowthTimer="0.100346"/>
+  <cropsState index="6" normalizedGrowthTimer="0.100346"/>
+  <cropsState index="7" normalizedGrowthTimer="0.100346"/>
+  <cropsState index="8" normalizedGrowthTimer="0.100346"/>
+  <cropsState index="9" normalizedGrowthTimer="0.100346"/>
+  <cropsState index="10" normalizedGrowthTimer="0.084845"/>
+  <cropsState index="11" normalizedGrowthTimer="0.056868"/>
+  <cropsState index="13" normalizedGrowthTimer="0.100346"/>
+  <cropsState index="14" normalizedGrowthTimer="0.066088"/>
+  <cropsState index="15" normalizedGrowthTimer="0.100346"/>
+  <growthMasks numCells="16384"><![CDATA[XQAABAAAf+/7v/6jsV7l+D+yqiZV+GhwQXAVD439HkwbikK3GfRpGHGuZiOKik0vow3Zf6bjjCMRU+BZGMV1iuJ3yXd0zLWIDD29nMf/2OPjs+iKbJJEd8HNvq26XuA/0P81dZnmpGPrWkFJq/aD1ahXniCyLOqJ80Unzc84TBg5p+4C1KVoZy8pQ6N1zzA0WqFxmi9WgKUSWsRXSr/eDMxoXcEPF8QXLRa2w4Sr0mA=]]></growthMasks>
+</foliageCropsUpdater>

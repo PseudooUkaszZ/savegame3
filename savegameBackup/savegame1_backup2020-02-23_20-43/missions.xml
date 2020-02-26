@@ -1,0 +1,38 @@
+﻿<missions>
+    <mission type="harvest" reward="957" status="0" success="false">
+        <field id="28" sprayFactor="0.000000" spraySet="false" plowFactor="1.000000" state="2" vehicleGroup="6" vehicleUseCost="150.800003" spawnedVehicles="false" growthState="6" limeFactor="0.000000" weedFactor="1.000000" fruitTypeName="MAIZE"/>
+        <harvest sellPoint="16" expectedLiters="7203.600098" depositedLiters="0.000000"/>
+    </mission>
+    <mission type="harvest" reward="1575" status="0" success="false">
+        <field id="5" sprayFactor="0.000000" spraySet="false" plowFactor="0.000000" state="2" vehicleGroup="2" vehicleUseCost="248.300003" spawnedVehicles="false" growthState="6" limeFactor="1.000000" weedFactor="0.500000" fruitTypeName="CANOLA"/>
+        <harvest sellPoint="14" expectedLiters="6923.750000" depositedLiters="0.000000"/>
+    </mission>
+    <mission type="harvest" reward="3869" status="0" success="false">
+        <field id="1" sprayFactor="0.500000" spraySet="false" plowFactor="1.000000" state="2" vehicleGroup="1" vehicleUseCost="609.752014" spawnedVehicles="false" growthState="5" limeFactor="1.000000" weedFactor="0.500000" fruitTypeName="WHEAT"/>
+        <harvest sellPoint="7" expectedLiters="34439.261719" depositedLiters="0.000000"/>
+    </mission>
+    <mission type="harvest" reward="7857" status="0" success="false">
+        <field id="16" sprayFactor="0.500000" spraySet="false" plowFactor="0.000000" state="2" vehicleGroup="6" vehicleUseCost="1238.093994" spawnedVehicles="false" growthState="5" limeFactor="1.000000" weedFactor="0.500000" fruitTypeName="SUNFLOWER"/>
+        <harvest sellPoint="5" expectedLiters="37142.820313" depositedLiters="0.000000"/>
+    </mission>
+    <mission type="plow" reward="745" status="0" success="false">
+        <field id="29" sprayFactor="0.000000" spraySet="false" plowFactor="0.000000" state="3" vehicleGroup="1" vehicleUseCost="125.839996" spawnedVehicles="false" limeFactor="1.000000" weedFactor="1.000000" fruitTypeName="POTATO"/>
+    </mission>
+    <mission type="spray" reward="2369" status="0" success="false">
+        <field id="19" sprayFactor="0.500000" spraySet="false" plowFactor="0.000000" state="2" vehicleGroup="2" vehicleUseCost="417.677002" spawnedVehicles="false" growthState="3" limeFactor="0.000000" weedFactor="0.500000" weedState="2" fruitTypeName="POTATO"/>
+    </mission>
+    <mission type="harvest" reward="4939" status="0" success="false">
+        <field id="17" sprayFactor="0.500000" spraySet="false" plowFactor="0.000000" state="2" vehicleGroup="1" vehicleUseCost="778.414001" growthState="5" limeFactor="0.000000" weedFactor="0.500000" fruitTypeName="SOYBEAN"/>
+        <harvest sellPoint="14" expectedLiters="18187.941406" depositedLiters="0.000000"/>
+    </mission>
+    <mission type="spray" reward="1856" status="0" success="false">
+        <field id="15" sprayFactor="1.000000" spraySet="false" plowFactor="0.000000" state="2" vehicleGroup="2" vehicleUseCost="327.190491" growthState="3" limeFactor="1.000000" weedFactor="0.500000" weedState="2" fruitTypeName="CANOLA"/>
+    </mission>
+    <mission type="spray" reward="1076" status="0" success="false">
+        <field id="20" sprayFactor="0.000000" spraySet="false" plowFactor="0.000000" state="2" vehicleGroup="1" vehicleUseCost="189.813004" growthState="3" limeFactor="1.000000" weedFactor="0.500000" weedState="2" fruitTypeName="SUGARBEET"/>
+    </mission>
+    <mission type="harvest" reward="6195" status="0" success="false">
+        <field id="7" sprayFactor="0.500000" spraySet="false" plowFactor="1.000000" state="2" vehicleGroup="2" vehicleUseCost="976.228516" growthState="5" limeFactor="1.000000" weedFactor="0.500000" fruitTypeName="SOYBEAN"/>
+        <harvest sellPoint="16" expectedLiters="27878.832031" depositedLiters="0.000000"/>
+    </mission>
+</missions>

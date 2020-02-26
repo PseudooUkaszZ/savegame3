@@ -1,0 +1,31 @@
+<deviceMapping backends="ps4;rawInput;directInput;macosXSdl">
+    <productKey productId="2217" vendorId="0738" />
+    <productName vendorId="0738">
+        <keyword text="saitek" />
+        <keyword text="heavy" />
+        <keyword text="eqpt." />
+        <keyword text="wheel" />
+        <keyword text="pedal" />
+    </productName>
+    <category>farmWheel</category>  <!-- gamepad, wheel, joystick, farmWheel, farmSidePanel -->
+    <buttonMappings>
+        <buttonMapping physical="0" logical="2" label="1" />
+        <buttonMapping physical="1" logical="1" label="2" />
+        <buttonMapping physical="2" logical="0" label="3" />
+        <buttonMapping physical="3" logical="3" label="4" />
+        <buttonMapping physical="4" logical="10" label="LS" />
+        <buttonMapping physical="5" logical="11" label="RS" />
+        <buttonMapping physical="6" logical="4" label="LT" />
+        <buttonMapping physical="7" logical="5" label="RT" />
+        <buttonMapping physical="8" logical="24" label="25" />
+    </buttonMappings>
+    <axisMappings>
+        <axisMapping physical="X" logical="4" scale="1" offset="0" label="RX" />
+        <axisMapping physical="Y" logical="10" scale="2" offset="1" label="ACC" />
+        <axisMapping physical="Y" logical="11" scale="-2" offset="1" label="BRK" />
+        <axisMapping physical="Z" logical="0" scale="1" offset="0" label="LS-X" />
+        <axisMapping physical="RX" logical="1" scale="1" offset="0" label="LS-Y" />
+        <axisMapping physical="RY" logical="2" scale="1" offset="0" label="RS-X" />
+        <axisMapping physical="RZ" logical="3" scale="1" offset="0" label="RS-Y" />
+    </axisMappings>
+</deviceMapping>

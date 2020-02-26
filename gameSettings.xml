@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<gameSettings revision="15">
+    <modsDirectoryOverride active="false" directory="C:/Temp"/>
+    <defaultMultiplayerPort>10823</defaultMultiplayerPort>
+    <motorStopTimerDuration>30</motorStopTimerDuration>
+    <horseAbandonTimerDuration>1800</horseAbandonTimerDuration>
+    <invertYLook>false</invertYLook>
+    <isHeadTrackingEnabled>true</isHeadTrackingEnabled>
+    <isGamepadEnabled>true</isGamepadEnabled>
+    <cameraSensitivity>1.000000</cameraSensitivity>
+    <vehicleArmSensitivity>2.500000</vehicleArmSensitivity>
+    <steeringBackSpeed>10.000000</steeringBackSpeed>
+    <steeringSensitivity>1.000000</steeringSensitivity>
+    <inputHelpMode>1</inputHelpMode>
+    <easyArmControl>true</easyArmControl>
+    <showAllMods>false</showAllMods>
+    <player index="1" bodyIndex="1" colorIndex="15" hatIndex="5" hairIndex="1" accessoryIndex="1" jacketIndex="0" name="Batek"/>
+    <mpLanguage>3</mpLanguage>
+    <volume>
+        <music>0.100000</music>
+        <vehicle>0.600000</vehicle>
+        <environment>0.600000</environment>
+        <radio>0.500000</radio>
+        <gui>0.400000</gui>
+    </volume>
+    <soundPlayer allowStreams="true"/>
+    <radioIsActive>false</radioIsActive>
+    <radioVehicleOnly>true</radioVehicleOnly>
+    <units>
+        <money>1</money>
+        <miles>false</miles>
+        <fahrenheit>false</fahrenheit>
+        <acre>false</acre>
+    </units>
+    <isTrainTabbable>true</isTrainTabbable>
+    <showTriggerMarker>true</showTriggerMarker>
+    <showFieldInfo>true</showFieldInfo>
+    <showHelpIcons>true</showHelpIcons>
+    <showHelpMenu>true</showHelpMenu>
+    <resetCamera>true</resetCamera>
+    <useWorldCamera>true</useWorldCamera>
+    <ingameMapState>0</ingameMapState>
+    <ingameMapFilter>0</ingameMapFilter>
+    <useColorblindMode>false</useColorblindMode>
+    <maxNumMirrors>3</maxNumMirrors>
+    <lightsProfile>3</lightsProfile>
+    <fovY>60.000000</fovY>
+    <uiScale>1.000000</uiScale>
+    <realBeaconLights>false</realBeaconLights>
+    <createGame password="12345" name="Ktosie" port="10823" useUpnp="false" autoAccept="false" autoSave="true" allowOnlyFriends="false" capacity="8" bandwidth="2"/>
+    <joinGame hasNoPassword="false" isNotEmpty="false" onlyWithAllModsAvailable="false" serverName="ktosie" mapId="" language="255" capacity="16" password="12345"/>
+</gameSettings>

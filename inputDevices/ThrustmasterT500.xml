@@ -1,0 +1,34 @@
+<deviceMapping backends="rawInput;directInput;macosXSdl">
+    <productKey productId="B65E" vendorId="044F" />
+    <productName vendorId="044F">
+        <keyword text="t500" />
+    </productName>
+    <category>wheel</category>  <!-- gamepad, wheel, joystick, farmWheel, farmSidePanel -->
+    <buttonMappings>
+        <buttonMapping physical="0" logical="6" label="LT" /> <!-- -->
+        <buttonMapping physical="1" logical="7" label="RT" />  <!-- -->
+        <buttonMapping physical="2" logical="3" label="Triangle" />  <!-- -->
+        <buttonMapping physical="3" logical="0" label="Square" /> <!-- -->
+        <buttonMapping physical="4" logical="2" label="Circle"/>  <!-- -->
+        <buttonMapping physical="5" logical="1" label="Cross" /> <!-- -->
+        <buttonMapping physical="6" logical="8" label="SET" />  <!-- -->
+        <buttonMapping physical="7" logical="9" label="Options" />  <!-- -->
+        <buttonMapping physical="8" logical="5" label="R2" />  <!-- -->
+        <buttonMapping physical="9" logical="4" label="L2" /> <!-- -->
+        <buttonMapping physical="10" logical="10" label="L3" />  <!-- -->
+        <buttonMapping physical="11" logical="11" label="R3" /> <!-- -->
+        <buttonMapping physical="12" logical="12" label="PS" />  <!-- -->
+    </buttonMappings>
+    <axisMappings>
+        <axisMapping physical="X" logical="0" scale="1" offset="0" label="RX" />
+        <axisMapping physical="Y" logical="10" scale="2" offset="1" label="ACC" />
+        <axisMapping physical="Y" logical="11" scale="-2" offset="1" label="BRK" />
+        <axisMapping physical="Slider" logical="12" scale="1" offset="0" label="CLT" />
+
+
+        <separateAxisMapping physical="X" logical="0" scale="1" offset="0" label="RX" /> <!-- -->
+        <separateAxisMapping physical="Y" logical="11" scale="1" offset="0" label="BRK" /> <!-- -->
+        <separateAxisMapping physical="RZ" logical="10" scale="1" offset="0" label="ACC" triggersSeparateAxes="true" /> <!-- -->
+        <separateAxisMapping physical="Slider" logical="12" scale="1" offset="0" label="CLT" /> <!-- -->
+    </axisMappings>
+</deviceMapping>

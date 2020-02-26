@@ -1,0 +1,33 @@
+<deviceMapping backends="rawInput;directInput;macosXSdl">
+    <productKey productId="CA04" vendorId="046D" />
+    <productName vendorId="046D">
+        <keyword text="formula" />
+        <keyword text="vibration" />
+        <keyword text="feedback" />
+    </productName>
+    <category>wheel</category>  <!-- gamepad, wheel, joystick, farmWheel, farmSidePanel -->
+    <buttonMappings>
+    
+        <buttonMapping physical="4" logical="6" label="5"/>
+        <buttonMapping physical="5" logical="7" label="6" />
+        <buttonMapping physical="6" logical="4" label="7" />
+        <buttonMapping physical="7" logical="5" label="8" />
+        <buttonMapping physical="0" logical="0" label="1" />
+        <buttonMapping physical="1" logical="1" label="2" />
+        <buttonMapping physical="2" logical="2" label="3" />
+        <buttonMapping physical="3" logical="3" label="4" />
+        <buttonMapping physical="8" logical="10" label="9" />
+        <buttonMapping physical="9" logical="11" label="10" />
+        <buttonMapping physical="10" logical="8" label="11" />
+        <buttonMapping physical="11" logical="9" label="12" />
+    </buttonMappings>
+    <axisMappings>
+        <axisMapping physical="X" logical="0" scale="1" offset="0" label="RX" />
+        <axisMapping physical="Y" logical="10" scale="2" offset="1" label="ACC" />
+        <axisMapping physical="Y" logical="11" scale="-2" offset="1" label="BRK" />
+
+        <separateAxisMapping physical="X" logical="0" scale="1" offset="0" label="RX" />
+        <separateAxisMapping physical="Z" logical="10" scale="1" offset="0" label="ACC" />
+        <separateAxisMapping physical="RZ" logical="11" scale="1" offset="0" label="BRK" triggersSeparateAxes="true" />
+    </axisMappings>
+</deviceMapping>

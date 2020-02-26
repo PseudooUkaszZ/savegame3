@@ -1,0 +1,21 @@
+<deviceMapping backends="rawInput;directInput;macosXSdl">
+    <productKey productId="0D25" vendorId="06A3" />
+    <productName vendorId="06A3">
+        <keyword text="cyborg" />
+    </productName>
+    <category>joystick</category>  <!-- gamepad, wheel, joystick, farmWheel, farmSidePanel -->
+    <buttonMappings>
+        <buttonMapping physical="0" logical="0" label="1" />
+        <buttonMapping physical="1" logical="1" label="2" />
+        <buttonMapping physical="2" logical="2" label="3" />
+        <buttonMapping physical="3" logical="3" label="4" />
+        <buttonMapping physical="4" logical="4" label="5" />
+        <buttonMapping physical="5" logical="5" label="6" />
+    </buttonMappings>
+    <axisMappings>
+        <axisMapping physical="X" logical="0" scale="1" offset="0" label="S1-X" />
+        <axisMapping physical="Y" logical="1" scale="1" offset="0" label="S1-Y" />
+        <axisMapping physical="RZ" logical="2" scale="1" offset="0" label="S1-Z" />
+        <axisMapping physical="Z" logical="3" scale="1" offset="0" label="Axis2" />
+    </axisMappings>
+</deviceMapping>

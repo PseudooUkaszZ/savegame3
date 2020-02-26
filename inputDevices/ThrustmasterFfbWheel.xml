@@ -1,0 +1,26 @@
+<deviceMapping backends="rawInput;directInput;macosXSdl">
+    <productKey productId="B65D" vendorId="044F" />
+    <productName vendorId="044F">
+        <keyword text="ffb" />
+        <keyword text="wheel" />
+    </productName>
+    <category>wheel</category>  <!-- gamepad, wheel, joystick, farmWheel, farmSidePanel -->
+    <buttonMappings>
+        <buttonMapping physical="0" logical="0" label="Square" />
+        <buttonMapping physical="1" logical="1" label="Cross" />
+        <buttonMapping physical="2" logical="2" label="Circle" />
+        <buttonMapping physical="3" logical="3" label="Triangle" />
+        <buttonMapping physical="4" logical="6" label="LT" />
+        <buttonMapping physical="5" logical="7" label="RT" />
+        <buttonMapping physical="6" logical="4" label="L2" />
+        <buttonMapping physical="7" logical="5" label="R2" />
+        <buttonMapping physical="8" logical="8" label="SET" />
+        <buttonMapping physical="9" logical="9" label="Options" />
+        <buttonMapping physical="12" logical="12" label="PS" />
+    </buttonMappings>
+    <axisMappings>
+        <axisMapping physical="X" logical="0" scale="1" offset="0" label="RX" />
+        <axisMapping physical="Y" logical="10" scale="2" offset="1" label="ACC" />
+        <axisMapping physical="Y" logical="11" scale="-2" offset="1" label="BRK" />
+    </axisMappings>
+</deviceMapping>

@@ -1,0 +1,25 @@
+<deviceMapping backends="rawInput;directInput;macosXSdl">
+    <productKey productId="0805" vendorId="1A34" />
+    <productName vendorId="1A34">
+        <keyword text="sl-6632" />
+        <keyword text="dark" />
+        <keyword text="tornado" />
+        <keyword text="joystick" />
+    </productName>
+    <category>joystick</category>  <!-- gamepad, wheel, joystick, farmWheel, farmSidePanel -->
+    <buttonMappings>
+        <buttonMapping physical="0" logical="0" label="1" />
+        <buttonMapping physical="1" logical="1" label="2" />
+        <buttonMapping physical="2" logical="2" label="3" />
+        <buttonMapping physical="3" logical="3" label="4" />
+        <buttonMapping physical="4" logical="4" label="5" />
+        <buttonMapping physical="5" logical="5" label="6" />
+        <buttonMapping physical="6" logical="6" label="7" />
+        <buttonMapping physical="7" logical="7" label="8" />
+    </buttonMappings>
+    <axisMappings>
+        <axisMapping physical="X" logical="0" scale="1" offset="0" label="S1-X" />
+        <axisMapping physical="Y" logical="1" scale="1" offset="0" label="S1-Y" />
+        <axisMapping physical="Slider" logical="2" scale="1" offset="0" label="Axis1" />
+    </axisMappings>
+</deviceMapping>

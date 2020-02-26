@@ -1,0 +1,38 @@
+<deviceMapping backends="rawInput;directInput;macosXSdl">
+    <productKey productId="C262" vendorId="046D" />
+    <productName vendorId="046D">
+        <keyword text="g920" />
+    </productName>
+    <category>wheel</category>  <!-- gamepad, wheel, joystick, farmWheel, farmSidePanel -->
+    <buttonMappings>
+        <buttonMapping physical="0" logical="1" label="A" />
+        <buttonMapping physical="1" logical="2" label="B" />
+        <buttonMapping physical="2" logical="0" label="X" />
+        <buttonMapping physical="3" logical="3" label="Y" />
+        <buttonMapping physical="4" logical="5" label="R2"/>
+        <buttonMapping physical="5" logical="4" label="L2" />
+        <buttonMapping physical="6" logical="9" label="Start" />
+        <buttonMapping physical="7" logical="8" label="Back" />
+        <buttonMapping physical="8" logical="11" label="RB" />
+        <buttonMapping physical="9" logical="10" label="LB" />
+        <buttonMapping physical="10" logical="12" label="PS" />
+        <buttonMapping physical="11" logical="25" label="12" />
+        <buttonMapping physical="12" logical="26" label="13" />
+        <buttonMapping physical="13" logical="27" label="14" />
+        <buttonMapping physical="14" logical="28" label="15" />
+        <buttonMapping physical="15" logical="29" label="16" />
+        <buttonMapping physical="16" logical="30" label="17" />
+        <buttonMapping physical="17" logical="31" label="18" />
+    </buttonMappings>
+    <axisMappings>
+        <axisMapping physical="X" logical="0" scale="1" offset="0" label="RX" />
+        <axisMapping physical="Y" logical="10" scale="2" offset="1" label="ACC" />
+        <axisMapping physical="Y" logical="11" scale="-2" offset="1" label="BRK" />
+        <axisMapping physical="RZ" logical="12" scale="1" offset="0" label="CLT" />
+
+        <separateAxisMapping physical="X" logical="0" scale="1" offset="0" label="RX" />
+        <separateAxisMapping physical="Y" logical="10" scale="1" offset="0" label="ACC" />
+        <separateAxisMapping physical="Z" logical="11" scale="1" offset="0" label="BRK" triggersSeparateAxes="true"/>
+        <separateAxisMapping physical="RZ" logical="12" scale="1" offset="0" label="CLT" />
+    </axisMappings>
+</deviceMapping>

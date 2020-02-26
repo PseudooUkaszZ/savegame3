@@ -1,0 +1,55 @@
+<deviceMapping backends="rawInput;directInput;macosXSdl">
+    <productKey productId="B684" vendorId="044F" />
+    <productName vendorId="044F">
+        <keyword text="tgt" />
+    </productName>
+    <category>wheel</category>  <!-- gamepad, wheel, joystick, farmWheel, farmSidePanel -->
+    <buttonMappings>
+        <buttonMapping physical="0" logical="6" label="LT" /> <!-- -->
+        <buttonMapping physical="1" logical="7" label="RT" />  <!-- -->
+        <buttonMapping physical="2" logical="3" label="Triangle" />  <!-- -->
+        <buttonMapping physical="3" logical="0" label="Square" /> <!-- -->
+        <buttonMapping physical="4" logical="2" label="Circle"/>  <!-- -->
+        <buttonMapping physical="5" logical="1" label="Cross" /> <!-- -->
+        <buttonMapping physical="6" logical="8" label="SET" />  <!-- -->
+        <buttonMapping physical="7" logical="9" label="Options" />  <!-- -->
+        <buttonMapping physical="8" logical="5" label="R2" />  <!-- -->
+        <buttonMapping physical="9" logical="4" label="L2" /> <!-- -->
+        <buttonMapping physical="10" logical="10" label="L3" />  <!-- -->
+        <buttonMapping physical="11" logical="11" label="R3" /> <!-- -->
+        <buttonMapping physical="12" logical="12" label="PS" />  <!-- -->
+
+        <buttonMapping physical="13" logical="13" label="13" />  <!-- -->
+        <buttonMapping physical="14" logical="14" label="14" />  <!-- -->
+        <buttonMapping physical="15" logical="15" label="15" />  <!-- -->
+        <buttonMapping physical="16" logical="20" label="16" />  <!-- -->
+        <buttonMapping physical="17" logical="21" label="17" />  <!-- -->
+        <buttonMapping physical="18" logical="22" label="18" />  <!-- -->
+        <buttonMapping physical="19" logical="23" label="19" />  <!-- -->
+        <buttonMapping physical="20" logical="24" label="20" />  <!-- -->
+        <buttonMapping physical="21" logical="25" label="21" />  <!-- -->
+        <buttonMapping physical="22" logical="26" label="22" />  <!-- -->
+        <buttonMapping physical="23" logical="27" label="23" />  <!-- -->
+        <buttonMapping physical="24" logical="28" label="24" />  <!-- -->
+    </buttonMappings>
+    <axisMappings>
+        <axisMapping physical="X" logical="0" scale="1" offset="0" label="RX" />
+        <axisMapping physical="Y" logical="10" scale="2" offset="1" label="ACC" />
+        <axisMapping physical="Y" logical="11" scale="-2" offset="1" label="BRK" />
+        <axisMapping physical="Slider" logical="12" scale="1" offset="0" label="CLT" />
+        <axisMapping physical="RX" logical="1" scale="1" offset="0" label="LS-X" />
+        <axisMapping physical="RY" logical="2" scale="1" offset="0" label="LS-Y" />
+        <axisMapping physical="Z" logical="3" scale="1" offset="0" label="RS-X" />
+        <axisMapping physical="Dial" logical="4" scale="1" offset="0" label="RS-Y" />
+
+
+        <separateAxisMapping physical="X" logical="0" scale="1" offset="0" label="RX" /> <!-- -->
+        <separateAxisMapping physical="Y" logical="11" scale="1" offset="0" label="BRK" /> <!-- -->
+        <separateAxisMapping physical="RZ" logical="10" scale="1" offset="0" label="ACC" triggersSeparateAxes="true" /> <!-- -->
+        <separateAxisMapping physical="Slider" logical="12" scale="1" offset="0" label="CLT" /> <!-- -->
+        <separateAxisMapping physical="RX" logical="1" scale="1" offset="0" label="LS-X" />
+        <separateAxisMapping physical="RY" logical="2" scale="1" offset="0" label="LS-Y" />
+        <separateAxisMapping physical="Z" logical="3" scale="1" offset="0" label="RS-X" />
+        <separateAxisMapping physical="Dial" logical="4" scale="1" offset="0" label="RS-Y" />
+    </axisMappings>
+</deviceMapping>

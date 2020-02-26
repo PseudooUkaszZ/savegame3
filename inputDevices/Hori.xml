@@ -1,0 +1,33 @@
+<deviceMapping backends="rawInput;directInput;macosXSdl">
+    <productKey productId="0060" vendorId="0F0D" />
+    <productName vendorId="0F0D">
+        <keyword text="steering" />
+        <keyword text="wheel" />
+        <keyword text="controller" />
+        <keyword text="4" />
+    </productName>
+    <category>wheel</category>  <!-- gamepad, wheel, joystick, farmWheel, farmSidePanel -->
+    <buttonMappings>
+        <buttonMapping physical="0" logical="0" label="Square" />
+        <buttonMapping physical="1" logical="1" label="Cross" />
+        <buttonMapping physical="2" logical="2" label="Circle" />
+        <buttonMapping physical="3" logical="3" label="Triangle" />
+        <buttonMapping physical="6" logical="6" label="LT"/>
+        <buttonMapping physical="7" logical="7" label="RT" />
+        <buttonMapping physical="4" logical="4" label="L1" />
+        <buttonMapping physical="5" logical="5" label="R1" />
+        <buttonMapping physical="8" logical="8" label="SET" />
+        <buttonMapping physical="9" logical="9" label="Options" />
+        <buttonMapping physical="12" logical="12" label="PS" />
+        <buttonMapping physical="10" logical="10" label="L3" />
+        <buttonMapping physical="11" logical="11" label="R3" />
+    </buttonMappings>
+    <axisMappings>
+        <axisMapping physical="X" logical="0" scale="1" offset="0" label="RX" />
+        <axisMapping physical="RY" logical="10" scale="-1" offset="0" label="ACC" />
+        <axisMapping physical="RX" logical="11" scale="-1" offset="0" label="BRK" />
+        <axisMapping physical="RZ" logical="3" scale="1" offset="0" label="S1-Y" />
+        <axisMapping physical="Z" logical="2" scale="1" offset="0" label="S1-X" />
+
+    </axisMappings>
+</deviceMapping>

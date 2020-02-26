@@ -1,0 +1,7 @@
+﻿<economy>
+    <greatDemands>
+        <greatDemand itemId="19" fillTypeName="COTTON" demandMultiplier="1.300000" demandStartDay="6" demandStartHour="17" demandDuration="12" isRunning="false" isValid="true"/>
+        <greatDemand itemId="17" fillTypeName="POTATO" demandMultiplier="1.100000" demandStartDay="9" demandStartHour="8" demandDuration="12" isRunning="false" isValid="true"/>
+        <greatDemand itemId="3" fillTypeName="DRYGRASS_WINDROW" demandMultiplier="1.300000" demandStartDay="10" demandStartHour="9" demandDuration="24" isRunning="false" isValid="true"/>
+    </greatDemands>
+</economy>
