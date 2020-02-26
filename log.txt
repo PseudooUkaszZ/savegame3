@@ -74,603 +74,442 @@ Farming Simulator 19 (Epic)
   Version: 1.5.2.1 b8115
   Available Languages: en de jp pl cz fr es ru it pt hu nl cs ct br tr ro kr
   Language: pl
-  Time: 2020-02-25 14:46:44
-dataS2/character/humans/characterAnimation.i3d (62.17 ms)
+  Time: 2020-02-25 22:17:21
 Error: No license for dlc pdlc_andersonPack. Please reinstall.
 Error: No license for dlc pdlc_claasPack. Please reinstall.
 Error: No license for dlc pdlc_johnDeereCottonPack. Please reinstall.
-dataS2/character/humans/pedestrians/pedestrianAnimation.i3d (58.65 ms)
-2020-02-25 14:47 [EpicStoreAuth] Query Ownership Token started
-2020-02-25 14:47 [EpicStoreAuth] Query Ownership Token complete
-2020-02-25 14:47 [EpicStoreAuth] Query Ownership Token started
-2020-02-25 14:47 [EpicStoreAuth] Query Ownership Token complete
-2020-02-25 14:51 [EpicStoreManager] Query Ownership complete
-2020-02-25 14:51 [EpicStoreManager] Query Ownership error: 0
-2020-02-25 14:52 [EpicStoreAuth] Query Ownership Token started
-2020-02-25 14:52 [EpicStoreAuth] Query Ownership Token complete
-2020-02-25 14:52 [EpicStoreAuth] Query Ownership Token started
-2020-02-25 14:52 [EpicStoreAuth] Query Ownership Token complete
-2020-02-25 14:52   Loaded specializations
-2020-02-25 14:52   Loaded vehicle types
-2020-02-25 14:52   Loaded placeable types
-2020-02-25 14:52   Register configuration 'baseColor'
-2020-02-25 14:52   Register configuration 'design'
-2020-02-25 14:52   Register configuration 'designColor'
-2020-02-25 14:52   Register configuration 'vehicleType'
-2020-02-25 14:52   Register workAreaType 'RIDGEMARKER'
-2020-02-25 14:52   Register configuration 'attacherJoint'
-2020-02-25 14:52   Register workAreaType 'WEEDER'
-2020-02-25 14:52   Register workAreaType 'PLOW'
-2020-02-25 14:52   Register workAreaType 'DEFAULT'
-2020-02-25 14:52   Register workAreaType 'AUXILIARY'
-2020-02-25 14:52   Register configuration 'motor'
-2020-02-25 14:52   Register configuration 'frontloader'
-2020-02-25 14:52   Register workAreaType 'FORAGEWAGON'
-2020-02-25 14:52   Register configuration 'baseMaterial'
-2020-02-25 14:52   Register configuration 'designMaterial'
-2020-02-25 14:52   Register configuration 'wrappingColor'
-2020-02-25 14:52   Register configuration 'powerTakeOff'
-2020-02-25 14:52   Register configuration 'trailer'
-2020-02-25 14:52   Register workAreaType 'COMBINECHOPPER'
-2020-02-25 14:52   Register workAreaType 'COMBINESWATH'
-2020-02-25 14:52   Register workAreaType 'FRUITPREPARER'
-2020-02-25 14:52   Register workAreaType 'BALER'
-2020-02-25 14:52   Register configuration 'tensionBelts'
-2020-02-25 14:52   Register workAreaType 'MOWER'
-2020-02-25 14:52   Register workAreaType 'CULTIVATOR'
-2020-02-25 14:52   Register workAreaType 'SPRAYER'
-2020-02-25 14:52   Register configuration 'wheel'
-2020-02-25 14:52   Register configuration 'rimColor'
-2020-02-25 14:52   Register configuration 'pipe'
-2020-02-25 14:52   Register workAreaType 'SOWINGMACHINE'
-2020-02-25 14:52   Register workAreaType 'CUTTER'
-2020-02-25 14:52   Register workAreaType 'WINDROWER'
-2020-02-25 14:52   Register configuration 'inputAttacherJoint'
-2020-02-25 14:52   Register workAreaType 'TEDDER'
-2020-02-25 14:52   Register workAreaType 'ROLLER'
-2020-02-25 14:52   Register configuration 'cover'
-2020-02-25 14:52   Register configuration 'folding'
-2020-02-25 14:52   Register configuration 'fillUnit'
-2020-02-25 14:52   Register configuration 'buyableBaleAmount'
-2020-02-25 14:52   Register configuration 'fillVolume'
-2020-02-25 14:52 [EpicStoreAuth] Query Ownership Token started
-2020-02-25 14:52 [EpicStoreAuth] Query Ownership Token complete
-2020-02-25 14:52 [EpicStoreAuth] Query Ownership Token started
-2020-02-25 14:52 [EpicStoreAuth] Query Ownership Token complete
-2020-02-25 14:52   Loaded specializations
-2020-02-25 14:52   Loaded vehicle types
-2020-02-25 14:52   Loaded placeable types
-2020-02-25 14:53   Register configuration 'baseColor'
-2020-02-25 14:53   Register configuration 'design'
-2020-02-25 14:53   Register configuration 'designColor'
-2020-02-25 14:53   Register configuration 'vehicleType'
-2020-02-25 14:53   Register workAreaType 'RIDGEMARKER'
-2020-02-25 14:53   Register configuration 'attacherJoint'
-2020-02-25 14:53   Register workAreaType 'WEEDER'
-2020-02-25 14:53   Register workAreaType 'PLOW'
-2020-02-25 14:53   Register workAreaType 'DEFAULT'
-2020-02-25 14:53   Register workAreaType 'AUXILIARY'
-2020-02-25 14:53   Register configuration 'motor'
-2020-02-25 14:53   Register configuration 'frontloader'
-2020-02-25 14:53   Register workAreaType 'FORAGEWAGON'
-2020-02-25 14:53   Register configuration 'baseMaterial'
-2020-02-25 14:53   Register configuration 'designMaterial'
-2020-02-25 14:53   Register configuration 'wrappingColor'
-2020-02-25 14:53   Register configuration 'powerTakeOff'
-2020-02-25 14:53   Register configuration 'trailer'
-2020-02-25 14:53   Register workAreaType 'COMBINECHOPPER'
-2020-02-25 14:53   Register workAreaType 'COMBINESWATH'
-2020-02-25 14:53   Register workAreaType 'FRUITPREPARER'
-2020-02-25 14:53   Register workAreaType 'BALER'
-2020-02-25 14:53   Register configuration 'tensionBelts'
-2020-02-25 14:53   Register workAreaType 'MOWER'
-2020-02-25 14:53   Register workAreaType 'CULTIVATOR'
-2020-02-25 14:53   Register workAreaType 'SPRAYER'
-2020-02-25 14:53   Register configuration 'wheel'
-2020-02-25 14:53   Register configuration 'rimColor'
-2020-02-25 14:53   Register configuration 'pipe'
-2020-02-25 14:53   Register workAreaType 'SOWINGMACHINE'
-2020-02-25 14:53   Register workAreaType 'CUTTER'
-2020-02-25 14:53   Register workAreaType 'WINDROWER'
-2020-02-25 14:53   Register configuration 'inputAttacherJoint'
-2020-02-25 14:53   Register workAreaType 'TEDDER'
-2020-02-25 14:53   Register workAreaType 'ROLLER'
-2020-02-25 14:53   Register configuration 'cover'
-2020-02-25 14:53   Register configuration 'folding'
-2020-02-25 14:53   Register configuration 'fillUnit'
-2020-02-25 14:53   Register configuration 'buyableBaleAmount'
-2020-02-25 14:53   Register configuration 'fillVolume'
-2020-02-25 14:53 data/shared/connectionHoses/hoses.i3d (381.50 ms)
-2020-02-25 14:53 data/shared/connectionHoses/connectors.i3d (299.20 ms)
-2020-02-25 14:53 data/shared/connectionHoses/hoseMaterialHolder.i3d (75.54 ms)
-2020-02-25 14:53 data/objects/squarebales/baleStraw240.i3d (113.92 ms)
-2020-02-25 14:53 data/objects/squarebales/baleHay240.i3d (70.37 ms)
-2020-02-25 14:53 data/objects/squarebales/baleGrass240.i3d (54.72 ms)
-2020-02-25 14:53 data/objects/squarebales/kuhnSW4014/baleSilage240.i3d (137.01 ms)
-2020-02-25 14:53 data/objects/roundbales/roundbaleStraw_w112_d130.i3d (120.14 ms)
-2020-02-25 14:53 data/objects/roundbales/roundbaleHay_w112_d130.i3d (117.98 ms)
-2020-02-25 14:53 data/objects/roundbales/roundbaleGrass_w112_d130.i3d (119.62 ms)
-2020-02-25 14:53 data/objects/roundbales/roundbaleSilage_w112_d130.i3d (48.44 ms)
-2020-02-25 14:53 data/objects/cottonModules/cottonModule488.i3d (224.85 ms)
-2020-02-25 14:53 data/sky/sky.i3d (49.11 ms)
-2020-02-25 14:53 data/sky/rain.i3d (78.74 ms)
-2020-02-25 14:53 data/maps/mapDE.i3d (21478.14 ms)
-2020-02-25 14:53 data/foliage/wheat.i3d (281.36 ms)
-2020-02-25 14:53 data/foliage/grassDense.i3d (139.07 ms)
-2020-02-25 14:53 data/foliage/canola.i3d (235.09 ms)
-2020-02-25 14:53 data/foliage/barley.i3d (323.99 ms)
-2020-02-25 14:53 data/foliage/maize.i3d (253.65 ms)
-2020-02-25 14:53 data/foliage/decoFoliage.i3d (1021.18 ms)
-2020-02-25 14:53 data/foliage/potato.i3d (200.91 ms)
-2020-02-25 14:53 data/foliage/potatoHaulm.i3d (42.68 ms)
-2020-02-25 14:53 data/foliage/sugarbeet.i3d (82.24 ms)
-2020-02-25 14:53 data/foliage/sugarbeetHaulm.i3d (35.62 ms)
-2020-02-25 14:53 data/foliage/sunflower.i3d (270.82 ms)
-2020-02-25 14:53 data/foliage/soybean.i3d (205.72 ms)
-2020-02-25 14:53 data/foliage/oilseedRadish.i3d (65.30 ms)
-2020-02-25 14:53 data/foliage/poplar.i3d (300.35 ms)
-2020-02-25 14:53 data/foliage/bush01.i3d (377.81 ms)
-2020-02-25 14:53 Info: transform group 'bush01' has elements very far out from the cell edge (29.61% expansion)
-2020-02-25 14:53 data/foliage/oat.i3d (223.82 ms)
-2020-02-25 14:53 data/foliage/sugarCane.i3d (183.04 ms)
-2020-02-25 14:53 data/foliage/sugarCaneHaulm.i3d (26.76 ms)
-2020-02-25 14:53 data/foliage/cotton.i3d (156.12 ms)
-2020-02-25 14:53 data/foliage/weed.i3d (46.77 ms)
-2020-02-25 14:53 Enabled withering
-2020-02-25 14:54 data/store/ui/shop.i3d (557.00 ms)
-2020-02-25 14:54 data/shared/materialHolders/glowEffectMaterialHolder.i3d (0.48 ms)
-2020-02-25 14:54 Joined network game (94)
-2020-02-25 14:54 data/store/ui/cube.i3d (27.09 ms)
-2020-02-25 14:54 data/store/ui/sphere.i3d (39.62 ms)
-2020-02-25 14:54 data/vehicles/train/locomotive01/locomotive01.i3d (597.37 ms)
-2020-02-25 14:54 data/vehicles/train/wagonGrain/wagonGrain.i3d (459.33 ms)
-2020-02-25 14:54 data/vehicles/train/wagonWoodChips/wagonWoodChips.i3d (52.27 ms)
-2020-02-25 14:54 data/vehicles/train/wagonTimber/wagonTimber.i3d (44.02 ms)
-2020-02-25 14:54 data/vehicles/train/wagonSugarbeets/wagonSugarbeets.i3d (58.38 ms)
-2020-02-25 14:54 data/vehicles/train/wagonVehicles/wagonVehicles.i3d (48.64 ms)
-2020-02-25 14:54 data/vehicles/valtra/ASeries/ASeries.i3d (1296.71 ms)
-2020-02-25 14:54 data/shared/wheels/hubs/hubs.i3d (771.69 ms)
-2020-02-25 14:54 data/particleSystems/shared/wheelEmitterShape.i3d (20.76 ms)
-2020-02-25 14:54 data/shared/wheels/trelleborg/TM600/R28_TM600.i3d (140.49 ms)
-2020-02-25 14:54 data/shared/wheels/rims/rim001.i3d (103.00 ms)
-2020-02-25 14:54 data/shared/wheels/trelleborg/TM600/R38_TM600.i3d (51.07 ms)
-2020-02-25 14:54 data/particleSystems/shared/exhaust.i3d (72.19 ms)
-2020-02-25 14:54 data/shared/assets/upperLinks/walterscheid03.i3d (138.71 ms)
-2020-02-25 14:54 data/shared/assets/toolbar.i3d (64.97 ms)
-2020-02-25 14:54 dataS2/character/humans/player/player01.i3d (275.39 ms)
-2020-02-25 14:54 data/shared/ai/trafficCollision.i3d (40.87 ms)
-2020-02-25 14:54 data/vehicles/rau/polymag300/polymag300.i3d (184.95 ms)
-2020-02-25 14:54 data/vehicles/fortschritt/hw80/hw80.i3d (365.73 ms)
-2020-02-25 14:54 data/shared/wheels/lizard/implement/R22_5_DS.i3d (79.99 ms)
-2020-02-25 14:54 data/shared/assets/wheelChocks/wheelChock01.i3d (78.47 ms)
-2020-02-25 14:54 data/shared/assets/lights/lizard/rear3ChamberLight_01.i3d (101.58 ms)
-2020-02-25 14:54 data/shared/assets/reflectors/lizard/redTriangle_01.i3d (82.50 ms)
-2020-02-25 14:54 data/shared/assets/reflectors/lizard/yellowRectangle_01.i3d (33.57 ms)
-2020-02-25 14:54 data/objects/bigBagContainer/bigBagContainer.i3d (238.44 ms)
-2020-02-25 14:54 data/vehicles/stara/stMax150/stMax150.i3d (1052.06 ms)
-2020-02-25 14:54 data/shared/wheels/trelleborg/TM600/R30_TM600.i3d (48.69 ms)
-2020-02-25 14:54 data/shared/wheels/trelleborg/TM3000/R32_TM3000.i3d (88.68 ms)
-2020-02-25 14:54 data/shared/assets/lights/lizard/workingLightCircle_02.i3d (83.35 ms)
-2020-02-25 14:54 Warning (physics): Non-cpu collision mesh for 'kinematicHelper' is being cooked at runtime - this will not work on consoles.
-2020-02-25 14:54 data/vehicles/vaderstad/rapid600S/rapid600s.i3d (511.52 ms)
-2020-02-25 14:54 data/shared/wheels/lizard/implement/R15.i3d (74.12 ms)
-2020-02-25 14:54 data/shared/assets/lights/lizard/rear2ChamberLight_05.i3d (73.54 ms)
-2020-02-25 14:54 data/shared/assets/lights/lizard/sideMarker_04White.i3d (64.90 ms)
-2020-02-25 14:54 data/shared/assets/reflectors/lizard/yellowRound_03.i3d (23.75 ms)
-2020-02-25 14:54 data/vehicles/kuhn/kuhnAxis402/kuhnAxis402.i3d (359.80 ms)
-2020-02-25 14:54 data/shared/assets/powerTakeOffs/walterscheidW.i3d (192.89 ms)
-2020-02-25 14:54 data/vehicles/joskin/joskinAquaTrans7300/joskinAquaTrans7300.i3d (166.89 ms)
-2020-02-25 14:54 data/shared/assets/wheelChocks/wheelChockSupport01.i3d (48.85 ms)
-2020-02-25 14:54 data/shared/wheels/trelleborg/T404/R22_5_T404.i3d (152.09 ms)
-2020-02-25 14:54 data/shared/assets/lights/lizard/rearMultipointLight_03.i3d (61.40 ms)
-2020-02-25 14:54 data/shared/assets/lights/lizard/sideMarker_04Orange.i3d (41.60 ms)
-2020-02-25 14:54 data/shared/assets/reflectors/lizard/bigTriangle.i3d (74.07 ms)
-2020-02-25 14:54 data/vehicles/stoll/stollFrontLoaderFZ/stollFrontLoaderFZ.i3d (100.70 ms)
-2020-02-25 14:54 data/vehicles/stoll/stollToolBaleFork/stollToolBaleFork.i3d (153.47 ms)
-2020-02-25 14:54 data/vehicles/kuhn/kuhnGMD4411/kuhnGMD4411.i3d (192.56 ms)
-2020-02-25 14:54 data/shared/assets/lights/lizard/rearLightCircleRed_01.i3d (79.00 ms)
-2020-02-25 14:54 data/vehicles/warzee/de551/de551.i3d (206.33 ms)
-2020-02-25 14:54 data/vehicles/vicon/viconFanex604/viconFanex604.i3d (201.35 ms)
-2020-02-25 14:54 data/shared/wheels/hubs/hubSmall01.i3d (59.27 ms)
-2020-02-25 14:54 data/shared/wheels/trelleborg/T510/R08_T510.i3d (87.86 ms)
-2020-02-25 14:54 data/shared/assets/lights/lizard/rear2ChamberLight_01.i3d (102.22 ms)
-2020-02-25 14:54 data/vehicles/kuhn/kuhnGA9531/kuhnGA9531.i3d (206.55 ms)
-2020-02-25 14:54 data/shared/wheels/trelleborg/AW305/R15_3_AW305.i3d (126.68 ms)
-2020-02-25 14:54 data/shared/assets/lights/lizard/frontLightRectangle_01.i3d (64.10 ms)
-2020-02-25 14:54 data/shared/assets/lights/lizard/rearLightCircleOrange_01.i3d (33.02 ms)
-2020-02-25 14:54 data/vehicles/strautmann/zelonCFS2501DO/zelonCFS2501DO.i3d (322.38 ms)
-2020-02-25 14:54 data/shared/wheels/trelleborg/AW309/R17_AW309.i3d (94.76 ms)
-2020-02-25 14:54 data/shared/assets/lights/lizard/rearPlateNumberLight_01.i3d (66.44 ms)
-2020-02-25 14:54 data/shared/assets/lights/lizard/workingLightSquare_02.i3d (67.24 ms)
-2020-02-25 14:54 data/shared/assets/lights/lizard/rear4ChamberLight_01.i3d (83.04 ms)
-2020-02-25 14:54 data/shared/assets/lights/lizard/sideMarker_03.i3d (95.39 ms)
-2020-02-25 14:54 data/shared/assets/powerTakeOffs/walterscheidWWZ.i3d (88.31 ms)
-2020-02-25 14:54 data/vehicles/kuhn/kuhnDeltis1302/kuhnDeltis1302.i3d (330.29 ms)
-2020-02-25 14:54 data/shared/assets/lights/lizard/rear2ChamberLight_03.i3d (106.59 ms)
-2020-02-25 14:54 data/shared/assets/lights/hella/hellaWorkingLightRound_02.i3d (57.41 ms)
-2020-02-25 14:54 data/shared/wheels/trelleborg/TM100/R36_TM100.i3d (122.39 ms)
-2020-02-25 14:54 data/shared/wheels/trelleborg/TM100/R48_TM100.i3d (31.47 ms)
-2020-02-25 14:54 data/vehicles/masseyFerguson/activa7347/activa7347.i3d (512.64 ms)
-2020-02-25 14:54 data/shared/wheels/trelleborg/TM2000/R32_TM2000.i3d (198.98 ms)
-2020-02-25 14:54 data/shared/wheels/trelleborg/TH400/R24_TH400.i3d (149.67 ms)
-2020-02-25 14:54 data/shared/assets/reflectors/lizard/redRectangle_01.i3d (31.55 ms)
-2020-02-25 14:54 data/shared/assets/lights/lizard/workingLightOval_02.i3d (79.59 ms)
-2020-02-25 14:54 data/shared/assets/beaconLights/lizard/beaconLight02.i3d (116.37 ms)
-2020-02-25 14:54 data/vehicles/masseyFerguson/freeflow/freeflow.i3d (397.88 ms)
-2020-02-25 14:54 data/vehicles/joskin/joskinBetimaxRDS7500/joskinBetimaxRDS7500.i3d (252.46 ms)
-2020-02-25 14:54 data/shared/assets/reflectors/lizard/redTriangle_02.i3d (36.00 ms)
-2020-02-25 14:54 data/vehicles/agromasz/agromaszPOH5/agromaszPOH5.i3d (200.35 ms)
-2020-02-25 14:54 data/shared/wheels/trelleborg/AW305/R12_AW305.i3d (20.42 ms)
-2020-02-25 14:54 data/objects/pallets/liquidTank/liquidTank.i3d (142.44 ms)
-2020-02-25 14:54 data/vehicles/stoll/stollToolShovel/stollToolShovel.i3d (25.52 ms)
-2020-02-25 14:54 data/vehicles/stoll/stollToolManureGrabFork/stollToolManureGrabFork.i3d (41.47 ms)
-2020-02-25 14:54 data/vehicles/grimme/varitron470/varitron470.i3d (1536.91 ms)
-2020-02-25 14:54 data/shared/assets/extinguisher.i3d (104.15 ms)
-2020-02-25 14:54 data/shared/assets/camera_01.i3d (88.25 ms)
-2020-02-25 14:54 data/shared/assets/skfLincoln/skfLincoln01.i3d (133.96 ms)
-2020-02-25 14:54 data/shared/wheels/tracks/grimme/varitronTracks.i3d (329.14 ms)
-2020-02-25 14:54 data/shared/assets/lights/hella/hellaWorkingLightRound_01.i3d (63.97 ms)
-2020-02-25 14:54 data/shared/assets/reflectors/lizard/redRound_01.i3d (30.59 ms)
-2020-02-25 14:54 dataS2/character/humans/player/player02.i3d (199.83 ms)
-2020-02-25 14:54 data/vehicles/fendt/fendt700/fendt700.i3d (638.89 ms)
-2020-02-25 14:54 data/shared/wheels/trelleborg/TM800/R30_TM800.i3d (185.32 ms)
-2020-02-25 14:54 data/shared/wheels/trelleborg/TM800/R42_TM800.i3d (46.63 ms)
-2020-02-25 14:54 data/shared/assets/beaconLights/lizard/beaconLight01.i3d (31.40 ms)
-2020-02-25 14:54 data/shared/assets/upperLinks/walterscheid01.i3d (43.74 ms)
-2020-02-25 14:54 data/vehicles/kroeger/TAW30/TAW30.i3d (436.50 ms)
-2020-02-25 14:54 data/shared/wheels/trelleborg/TwinRadial/R26_5_TwinRadial.i3d (158.96 ms)
-2020-02-25 14:54 data/shared/assets/lights/lizard/rear3ChamberLight_04.i3d (86.01 ms)
-2020-02-25 14:54 data/shared/assets/lights/lizard/sideMarker_04.i3d (83.10 ms)
-2020-02-25 14:54 data/shared/assets/lights/hella/hellaWorkingLightSquare_01.i3d (58.40 ms)
-2020-02-25 14:54 data/shared/assets/lights/lizard/sideMarker_10Orange.i3d (62.06 ms)
-2020-02-25 14:54 data/placeables/mapDE/sellingStationGeneric/sellingStationGeneric.i3d (40.31 ms)
-2020-02-25 14:54 data/placeables/mapDE/sellingStationWoodChips/sellingStationWoodChips.i3d (18.13 ms)
-2020-02-25 14:54 data/placeables/mapDE/sellingStationVehicles/sellingStationVehicles.i3d (24.40 ms)
-2020-02-25 14:54 data/placeables/mapDE/waterFillTriggers/waterFillTriggers.i3d (29.77 ms)
-2020-02-25 14:54 data/placeables/mapDE/railroadSilo01/railroadSilo01.i3d (132.45 ms)
-2020-02-25 14:54 data/placeables/mapDE/sellingStationWood/sellingStationWood.i3d (32.38 ms)
-2020-02-25 14:54 data/placeables/limeStation/limeStation.i3d (181.07 ms)
-2020-02-25 14:54 data/placeables/bunkerSilo/bunkerSiloSmallDouble.i3d (81.02 ms)
-2020-02-25 14:54 data/placeables/mapDE/gasStation/gasStation.i3d (25.75 ms)
-2020-02-25 14:54 data/placeables/mapDE/sellingStationWool/sellingStationWool.i3d (41.58 ms)
-2020-02-25 14:54 data/placeables/mapDE/sellingStationBales/sellingStationBales.i3d (41.00 ms)
-2020-02-25 14:54 data/placeables/mapDE/railroadSilo02/railroadSilo02.i3d (35.37 ms)
-2020-02-25 14:54 data/placeables/animalHusbandry/husbandryHorseSmall.i3d (427.07 ms)
-2020-02-25 14:54 data/placeables/mapDE/trainStationMill/trainStationMill.i3d (36.95 ms)
-2020-02-25 14:54 data/placeables/mapDE/grainElevatorEast/grainElevatorEast.i3d (33.42 ms)
-2020-02-25 14:54 data/placeables/mapDE/trainSystem/trainSystem.i3d (73.15 ms)
-2020-02-25 14:54 data/placeables/mapDE/bga/bga.i3d (116.00 ms)
-2020-02-25 14:54 Warning (physics): Non-cpu collision mesh for 'kinematicHelper' is being cooked at runtime - this will not work on consoles.
-2020-02-25 14:54 data/vehicles/fendt/mt900/mt900.i3d (1039.01 ms)
-2020-02-25 14:54 data/shared/wheels/tracks/fendt/mt900Tracks.i3d (185.20 ms)
-2020-02-25 14:54 data/shared/assets/upperLinks/walterscheid04.i3d (41.60 ms)
-2020-02-25 14:54 data/vehicles/fendt/weight3300/weight3300.i3d (92.56 ms)
-2020-02-25 14:54   Info: Savegame Setting 'plantGrowthRate': 4
-2020-02-25 14:54 Disabled withering
-2020-02-25 14:54   Info: Savegame Setting 'limeRequired': false
-2020-02-25 14:54   Info: Savegame Setting 'fuelUsageLow': true
-2020-02-25 14:54   Setting 'Radio Volume': 0.5
-2020-02-25 14:54   Setting 'Vehicle Volume': 0.60000002384186
-2020-02-25 14:54   Setting 'Environment Volume': 0.60000002384186
-2020-02-25 14:54   Setting 'GUI Volume': 0.40000000596046
-2020-02-25 14:54   Info: Savegame Setting 'dirtInterval': 3
-2020-02-25 14:54   Info: Savegame Setting 'plantGrowthRate': 4
-2020-02-25 14:54   Info: Savegame Setting 'fuelUsageLow': true
-2020-02-25 14:54   Info: Savegame Setting 'plowingRequiredEnabled': true
-2020-02-25 14:54   Info: Savegame Setting 'weedsEnabled': true
-2020-02-25 14:54   Info: Savegame Setting 'limeRequired': false
-2020-02-25 14:55 dataS2/character/crow/crow.i3d (156.48 ms)
-2020-02-25 14:56 [EpicStoreManager] Query Ownership complete
-2020-02-25 14:56 [EpicStoreManager] Query Ownership error: 0
-2020-02-25 15:01 data/vehicles/duevelsdorf/MSS3000/MSS3000.i3d (543.53 ms)
-2020-02-25 15:01 [EpicStoreManager] Query Ownership complete
-2020-02-25 15:01 [EpicStoreManager] Query Ownership error: 0
-2020-02-25 15:06 [EpicStoreManager] Query Ownership complete
-2020-02-25 15:06 [EpicStoreManager] Query Ownership error: 0
-2020-02-25 15:11 data/vehicles/fendt/mt1100/mt1100.i3d (1066.76 ms)
-2020-02-25 15:11 data/shared/wheels/crawlers/agco/agcoCrawlersMT.i3d (193.77 ms)
-2020-02-25 15:11 data/shared/assets/reflectors/lizard/redRound_02.i3d (28.07 ms)
-2020-02-25 15:11 data/shared/assets/lights/lizard/workingLightCircle_01.i3d (60.51 ms)
-2020-02-25 15:11 data/shared/assets/lights/lizard/workingLightOval_01.i3d (77.26 ms)
-2020-02-25 15:11 data/shared/assets/toolbarWide.i3d (36.31 ms)
-2020-02-25 15:11 [EpicStoreManager] Query Ownership complete
-2020-02-25 15:11 [EpicStoreManager] Query Ownership error: 0
-2020-02-25 15:16 [EpicStoreManager] Query Ownership complete
-2020-02-25 15:16 [EpicStoreManager] Query Ownership error: 0
-2020-02-25 15:21 [EpicStoreManager] Query Ownership complete
-2020-02-25 15:21 [EpicStoreManager] Query Ownership error: 0
-2020-02-25 15:26 [EpicStoreManager] Query Ownership complete
-2020-02-25 15:26 [EpicStoreManager] Query Ownership error: 0
-2020-02-25 15:29 data/firstPerson/chainsaws/stihl/stihlMS261.i3d (721.01 ms)
-2020-02-25 15:29 data/firstPerson/chainsaws/chainsawRingSelector.i3d (53.07 ms)
-2020-02-25 15:31 [EpicStoreManager] Query Ownership complete
-2020-02-25 15:31 [EpicStoreManager] Query Ownership error: 0
-2020-02-25 15:36 [EpicStoreManager] Query Ownership complete
-2020-02-25 15:36 [EpicStoreManager] Query Ownership error: 0
-2020-02-25 15:41 [EpicStoreManager] Query Ownership complete
-2020-02-25 15:41 [EpicStoreManager] Query Ownership error: 0
-2020-02-25 15:46 [EpicStoreManager] Query Ownership complete
-2020-02-25 15:46 [EpicStoreManager] Query Ownership error: 0
-2020-02-25 15:51 [EpicStoreManager] Query Ownership complete
-2020-02-25 15:51 [EpicStoreManager] Query Ownership error: 0
-2020-02-25 15:55 dataS2/character/horse/horse.i3d (52.57 ms)
-2020-02-25 15:56 [EpicStoreManager] Query Ownership complete
-2020-02-25 15:56 [EpicStoreManager] Query Ownership error: 0
-2020-02-25 16:01 dataS2/character/horse/horse.i3d (51.19 ms)
-2020-02-25 16:01 [EpicStoreManager] Query Ownership complete
-2020-02-25 16:01 [EpicStoreManager] Query Ownership error: 0
-2020-02-25 16:06 [EpicStoreAuth] Query Ownership Token started
-2020-02-25 16:06 [EpicStoreAuth] Query Ownership Token complete
-2020-02-25 16:06 [EpicStoreAuth] Query Ownership Token started
-2020-02-25 16:06 [EpicStoreAuth] Query Ownership Token complete
-2020-02-25 16:06   Loaded specializations
-2020-02-25 16:06   Loaded vehicle types
-2020-02-25 16:06   Loaded placeable types
-2020-02-25 16:06   Register configuration 'baseColor'
-2020-02-25 16:06   Register configuration 'design'
-2020-02-25 16:06   Register configuration 'designColor'
-2020-02-25 16:06   Register configuration 'vehicleType'
-2020-02-25 16:06   Register workAreaType 'RIDGEMARKER'
-2020-02-25 16:06   Register configuration 'attacherJoint'
-2020-02-25 16:06   Register workAreaType 'WEEDER'
-2020-02-25 16:06   Register workAreaType 'PLOW'
-2020-02-25 16:06   Register workAreaType 'DEFAULT'
-2020-02-25 16:06   Register workAreaType 'AUXILIARY'
-2020-02-25 16:06   Register configuration 'motor'
-2020-02-25 16:06   Register configuration 'frontloader'
-2020-02-25 16:06   Register workAreaType 'FORAGEWAGON'
-2020-02-25 16:06   Register configuration 'baseMaterial'
-2020-02-25 16:06   Register configuration 'designMaterial'
-2020-02-25 16:06   Register configuration 'wrappingColor'
-2020-02-25 16:06   Register configuration 'powerTakeOff'
-2020-02-25 16:06   Register configuration 'trailer'
-2020-02-25 16:06   Register workAreaType 'COMBINECHOPPER'
-2020-02-25 16:06   Register workAreaType 'COMBINESWATH'
-2020-02-25 16:06   Register workAreaType 'FRUITPREPARER'
-2020-02-25 16:06   Register workAreaType 'BALER'
-2020-02-25 16:06   Register configuration 'tensionBelts'
-2020-02-25 16:06   Register workAreaType 'MOWER'
-2020-02-25 16:06   Register workAreaType 'CULTIVATOR'
-2020-02-25 16:06   Register workAreaType 'SPRAYER'
-2020-02-25 16:06   Register configuration 'wheel'
-2020-02-25 16:06   Register configuration 'rimColor'
-2020-02-25 16:06   Register configuration 'pipe'
-2020-02-25 16:06   Register workAreaType 'SOWINGMACHINE'
-2020-02-25 16:06   Register workAreaType 'CUTTER'
-2020-02-25 16:06   Register workAreaType 'WINDROWER'
-2020-02-25 16:06   Register configuration 'inputAttacherJoint'
-2020-02-25 16:06   Register workAreaType 'TEDDER'
-2020-02-25 16:06   Register workAreaType 'ROLLER'
-2020-02-25 16:06   Register configuration 'cover'
-2020-02-25 16:06   Register configuration 'folding'
-2020-02-25 16:06   Register configuration 'fillUnit'
-2020-02-25 16:06   Register configuration 'buyableBaleAmount'
-2020-02-25 16:06   Register configuration 'fillVolume'
-2020-02-25 16:06 data/shared/connectionHoses/hoses.i3d (2.19 ms)
-2020-02-25 16:06 data/shared/connectionHoses/connectors.i3d (5.54 ms)
-2020-02-25 16:06 data/shared/connectionHoses/hoseMaterialHolder.i3d (1.14 ms)
-2020-02-25 16:06 data/objects/squarebales/baleStraw240.i3d (1.89 ms)
-2020-02-25 16:06 data/objects/squarebales/baleHay240.i3d (1.20 ms)
-2020-02-25 16:06 data/objects/squarebales/baleGrass240.i3d (1.33 ms)
-2020-02-25 16:06 data/objects/squarebales/kuhnSW4014/baleSilage240.i3d (2.08 ms)
-2020-02-25 16:06 data/objects/roundbales/roundbaleStraw_w112_d130.i3d (2.27 ms)
-2020-02-25 16:06 data/objects/roundbales/roundbaleHay_w112_d130.i3d (3.44 ms)
-2020-02-25 16:06 data/objects/roundbales/roundbaleGrass_w112_d130.i3d (1.33 ms)
-2020-02-25 16:06 data/objects/roundbales/roundbaleSilage_w112_d130.i3d (0.52 ms)
-2020-02-25 16:06 data/objects/cottonModules/cottonModule488.i3d (1.45 ms)
-2020-02-25 16:06 data/sky/sky.i3d (0.58 ms)
-2020-02-25 16:06 data/sky/rain.i3d (0.97 ms)
-2020-02-25 16:06 data/maps/mapDE.i3d (1557.41 ms)
-2020-02-25 16:06 data/foliage/wheat.i3d (6.45 ms)
-2020-02-25 16:06 data/foliage/grassDense.i3d (1.64 ms)
-2020-02-25 16:06 data/foliage/canola.i3d (3.87 ms)
-2020-02-25 16:06 data/foliage/barley.i3d (2.38 ms)
-2020-02-25 16:06 data/foliage/maize.i3d (8.34 ms)
-2020-02-25 16:06 data/foliage/decoFoliage.i3d (21.10 ms)
-2020-02-25 16:06 data/foliage/potato.i3d (4.19 ms)
-2020-02-25 16:06 data/foliage/potatoHaulm.i3d (1.01 ms)
-2020-02-25 16:06 data/foliage/sugarbeet.i3d (2.56 ms)
-2020-02-25 16:06 data/foliage/sugarbeetHaulm.i3d (0.66 ms)
-2020-02-25 16:06 data/foliage/sunflower.i3d (7.95 ms)
-2020-02-25 16:06 data/foliage/soybean.i3d (3.83 ms)
-2020-02-25 16:06 data/foliage/oilseedRadish.i3d (1.07 ms)
-2020-02-25 16:06 data/foliage/poplar.i3d (7.83 ms)
-2020-02-25 16:06 data/foliage/bush01.i3d (15.07 ms)
-2020-02-25 16:06 Info: transform group 'bush01' has elements very far out from the cell edge (29.61% expansion)
-2020-02-25 16:06 data/foliage/oat.i3d (4.41 ms)
-2020-02-25 16:06 data/foliage/sugarCane.i3d (7.57 ms)
-2020-02-25 16:06 data/foliage/sugarCaneHaulm.i3d (0.64 ms)
-2020-02-25 16:06 data/foliage/cotton.i3d (4.60 ms)
-2020-02-25 16:06 data/foliage/weed.i3d (5.47 ms)
-2020-02-25 16:06 Enabled withering
-2020-02-25 16:06 data/store/ui/shop.i3d (27.84 ms)
-2020-02-25 16:06 data/shared/materialHolders/glowEffectMaterialHolder.i3d (0.45 ms)
-2020-02-25 16:06 data/store/ui/cube.i3d (0.41 ms)
-2020-02-25 16:06 data/store/ui/sphere.i3d (0.52 ms)
-2020-02-25 16:06 Joined network game (99)
-2020-02-25 16:06 data/vehicles/train/locomotive01/locomotive01.i3d (36.89 ms)
-2020-02-25 16:06 data/vehicles/train/wagonGrain/wagonGrain.i3d (33.57 ms)
-2020-02-25 16:06 data/vehicles/train/wagonWoodChips/wagonWoodChips.i3d (3.62 ms)
-2020-02-25 16:06 data/vehicles/train/wagonTimber/wagonTimber.i3d (3.56 ms)
-2020-02-25 16:06 data/vehicles/train/wagonSugarbeets/wagonSugarbeets.i3d (6.41 ms)
-2020-02-25 16:06 data/vehicles/train/wagonVehicles/wagonVehicles.i3d (2.94 ms)
-2020-02-25 16:06 data/vehicles/valtra/ASeries/ASeries.i3d (80.05 ms)
-2020-02-25 16:06 data/shared/wheels/hubs/hubs.i3d (17.76 ms)
-2020-02-25 16:06 data/particleSystems/shared/wheelEmitterShape.i3d (0.40 ms)
-2020-02-25 16:06 data/shared/wheels/trelleborg/TM600/R28_TM600.i3d (6.68 ms)
-2020-02-25 16:06 data/shared/wheels/rims/rim001.i3d (1.80 ms)
-2020-02-25 16:06 data/shared/wheels/trelleborg/TM600/R38_TM600.i3d (2.92 ms)
-2020-02-25 16:06 data/particleSystems/shared/exhaust.i3d (0.76 ms)
-2020-02-25 16:06 data/shared/assets/upperLinks/walterscheid03.i3d (2.02 ms)
-2020-02-25 16:06 data/shared/assets/toolbar.i3d (0.98 ms)
-2020-02-25 16:06 dataS2/character/humans/player/player02.i3d (200.15 ms)
-2020-02-25 16:06 data/shared/ai/trafficCollision.i3d (0.42 ms)
-2020-02-25 16:06 data/vehicles/rau/polymag300/polymag300.i3d (7.41 ms)
-2020-02-25 16:06 data/vehicles/fortschritt/hw80/hw80.i3d (24.27 ms)
-2020-02-25 16:06 data/shared/wheels/lizard/implement/R22_5_DS.i3d (1.16 ms)
-2020-02-25 16:06 data/shared/assets/wheelChocks/wheelChock01.i3d (1.08 ms)
-2020-02-25 16:06 data/shared/assets/lights/lizard/rear3ChamberLight_01.i3d (1.27 ms)
-2020-02-25 16:06 data/shared/assets/reflectors/lizard/redTriangle_01.i3d (1.14 ms)
-2020-02-25 16:06 data/shared/assets/reflectors/lizard/yellowRectangle_01.i3d (0.46 ms)
-2020-02-25 16:06 data/objects/bigBagContainer/bigBagContainer.i3d (6.59 ms)
-2020-02-25 16:06 data/vehicles/stara/stMax150/stMax150.i3d (68.54 ms)
-2020-02-25 16:06 data/shared/wheels/trelleborg/TM600/R30_TM600.i3d (1.37 ms)
-2020-02-25 16:06 data/shared/wheels/trelleborg/TM3000/R32_TM3000.i3d (5.95 ms)
-2020-02-25 16:06 data/shared/assets/lights/lizard/workingLightCircle_02.i3d (1.22 ms)
-2020-02-25 16:06 Warning (physics): Non-cpu collision mesh for 'kinematicHelper' is being cooked at runtime - this will not work on consoles.
-2020-02-25 16:06 data/vehicles/vaderstad/rapid600S/rapid600s.i3d (34.27 ms)
-2020-02-25 16:06 data/shared/wheels/lizard/implement/R15.i3d (2.13 ms)
-2020-02-25 16:06 data/shared/assets/lights/lizard/rear2ChamberLight_05.i3d (1.15 ms)
-2020-02-25 16:06 data/shared/assets/lights/lizard/sideMarker_04White.i3d (1.05 ms)
-2020-02-25 16:06 data/shared/assets/reflectors/lizard/yellowRound_03.i3d (0.46 ms)
-2020-02-25 16:06 data/vehicles/kuhn/kuhnAxis402/kuhnAxis402.i3d (15.48 ms)
-2020-02-25 16:06 data/shared/assets/powerTakeOffs/walterscheidW.i3d (0.77 ms)
-2020-02-25 16:06 data/vehicles/joskin/joskinAquaTrans7300/joskinAquaTrans7300.i3d (9.17 ms)
-2020-02-25 16:06 data/shared/assets/wheelChocks/wheelChockSupport01.i3d (0.79 ms)
-2020-02-25 16:06 data/shared/wheels/trelleborg/T404/R22_5_T404.i3d (5.62 ms)
-2020-02-25 16:06 data/shared/assets/lights/lizard/rearMultipointLight_03.i3d (1.53 ms)
-2020-02-25 16:06 data/shared/assets/lights/lizard/sideMarker_04Orange.i3d (0.49 ms)
-2020-02-25 16:06 data/shared/assets/reflectors/lizard/bigTriangle.i3d (1.11 ms)
-2020-02-25 16:06 data/vehicles/stoll/stollFrontLoaderFZ/stollFrontLoaderFZ.i3d (4.69 ms)
-2020-02-25 16:06 data/vehicles/stoll/stollToolBaleFork/stollToolBaleFork.i3d (6.54 ms)
-2020-02-25 16:06 data/vehicles/kuhn/kuhnGMD4411/kuhnGMD4411.i3d (11.85 ms)
-2020-02-25 16:06 data/shared/assets/lights/lizard/rearLightCircleRed_01.i3d (1.40 ms)
-2020-02-25 16:06 data/vehicles/warzee/de551/de551.i3d (12.46 ms)
-2020-02-25 16:06 data/vehicles/vicon/viconFanex604/viconFanex604.i3d (12.64 ms)
-2020-02-25 16:06 data/shared/wheels/hubs/hubSmall01.i3d (1.08 ms)
-2020-02-25 16:06 data/shared/wheels/trelleborg/T510/R08_T510.i3d (1.41 ms)
-2020-02-25 16:06 data/shared/assets/lights/lizard/rear2ChamberLight_01.i3d (1.18 ms)
-2020-02-25 16:06 data/vehicles/kuhn/kuhnGA9531/kuhnGA9531.i3d (12.27 ms)
-2020-02-25 16:06 data/shared/wheels/trelleborg/AW305/R15_3_AW305.i3d (5.15 ms)
-2020-02-25 16:06 data/shared/assets/lights/lizard/frontLightRectangle_01.i3d (1.16 ms)
-2020-02-25 16:06 data/shared/assets/lights/lizard/rearLightCircleOrange_01.i3d (0.57 ms)
-2020-02-25 16:06 data/vehicles/strautmann/zelonCFS2501DO/zelonCFS2501DO.i3d (26.41 ms)
-2020-02-25 16:06 data/shared/wheels/trelleborg/AW309/R17_AW309.i3d (4.97 ms)
-2020-02-25 16:06 data/shared/assets/lights/lizard/rearPlateNumberLight_01.i3d (1.13 ms)
-2020-02-25 16:06 data/shared/assets/lights/lizard/workingLightSquare_02.i3d (1.18 ms)
-2020-02-25 16:06 data/shared/assets/lights/lizard/rear4ChamberLight_01.i3d (1.27 ms)
-2020-02-25 16:06 data/shared/assets/lights/lizard/sideMarker_03.i3d (1.22 ms)
-2020-02-25 16:06 data/shared/assets/powerTakeOffs/walterscheidWWZ.i3d (1.45 ms)
-2020-02-25 16:06 data/vehicles/kuhn/kuhnDeltis1302/kuhnDeltis1302.i3d (26.88 ms)
-2020-02-25 16:06 data/shared/assets/lights/lizard/rear2ChamberLight_03.i3d (1.24 ms)
-2020-02-25 16:06 data/shared/assets/lights/hella/hellaWorkingLightRound_02.i3d (1.22 ms)
-2020-02-25 16:06 data/shared/wheels/trelleborg/TM100/R36_TM100.i3d (5.35 ms)
-2020-02-25 16:06 data/shared/wheels/trelleborg/TM100/R48_TM100.i3d (1.18 ms)
-2020-02-25 16:06 data/vehicles/masseyFerguson/activa7347/activa7347.i3d (36.95 ms)
-2020-02-25 16:06 data/shared/wheels/trelleborg/TM2000/R32_TM2000.i3d (6.42 ms)
-2020-02-25 16:06 data/shared/wheels/trelleborg/TH400/R24_TH400.i3d (6.31 ms)
-2020-02-25 16:06 data/shared/assets/reflectors/lizard/redRectangle_01.i3d (0.53 ms)
-2020-02-25 16:06 data/shared/assets/lights/lizard/workingLightOval_02.i3d (1.20 ms)
-2020-02-25 16:06 data/shared/assets/beaconLights/lizard/beaconLight02.i3d (1.65 ms)
-2020-02-25 16:06 data/vehicles/masseyFerguson/freeflow/freeflow.i3d (22.63 ms)
-2020-02-25 16:06 data/vehicles/joskin/joskinBetimaxRDS7500/joskinBetimaxRDS7500.i3d (12.59 ms)
-2020-02-25 16:06 data/shared/assets/reflectors/lizard/redTriangle_02.i3d (0.60 ms)
-2020-02-25 16:06 data/vehicles/agromasz/agromaszPOH5/agromaszPOH5.i3d (14.36 ms)
-2020-02-25 16:06 data/shared/wheels/trelleborg/AW305/R12_AW305.i3d (0.58 ms)
-2020-02-25 16:06 data/objects/pallets/liquidTank/liquidTank.i3d (3.91 ms)
-2020-02-25 16:06 data/vehicles/stoll/stollToolShovel/stollToolShovel.i3d (0.80 ms)
-2020-02-25 16:06 data/vehicles/stoll/stollToolManureGrabFork/stollToolManureGrabFork.i3d (1.14 ms)
-2020-02-25 16:06 data/vehicles/grimme/varitron470/varitron470.i3d (111.61 ms)
-2020-02-25 16:06 data/shared/assets/extinguisher.i3d (1.35 ms)
-2020-02-25 16:06 data/shared/assets/camera_01.i3d (1.02 ms)
-2020-02-25 16:06 data/shared/assets/skfLincoln/skfLincoln01.i3d (1.59 ms)
-2020-02-25 16:06 data/shared/wheels/tracks/grimme/varitronTracks.i3d (9.91 ms)
-2020-02-25 16:06 data/shared/assets/lights/hella/hellaWorkingLightRound_01.i3d (1.38 ms)
-2020-02-25 16:06 data/shared/assets/reflectors/lizard/redRound_01.i3d (0.45 ms)
-2020-02-25 16:06 dataS2/character/humans/player/player01.i3d (181.22 ms)
-2020-02-25 16:06 data/vehicles/fendt/fendt700/fendt700.i3d (38.44 ms)
-2020-02-25 16:06 data/shared/wheels/trelleborg/TM800/R30_TM800.i3d (5.59 ms)
-2020-02-25 16:06 data/shared/wheels/trelleborg/TM800/R42_TM800.i3d (1.24 ms)
-2020-02-25 16:06 data/shared/assets/beaconLights/lizard/beaconLight01.i3d (0.64 ms)
-2020-02-25 16:06 data/shared/assets/upperLinks/walterscheid01.i3d (0.68 ms)
-2020-02-25 16:06 data/vehicles/kroeger/TAW30/TAW30.i3d (17.23 ms)
-2020-02-25 16:06 data/shared/wheels/trelleborg/TwinRadial/R26_5_TwinRadial.i3d (3.16 ms)
-2020-02-25 16:06 data/shared/assets/lights/lizard/rear3ChamberLight_04.i3d (1.36 ms)
-2020-02-25 16:06 data/shared/assets/lights/lizard/sideMarker_04.i3d (1.19 ms)
-2020-02-25 16:06 data/shared/assets/lights/hella/hellaWorkingLightSquare_01.i3d (1.20 ms)
-2020-02-25 16:06 data/shared/assets/lights/lizard/sideMarker_10Orange.i3d (1.02 ms)
-2020-02-25 16:06 data/vehicles/fendt/mt900/mt900.i3d (72.20 ms)
-2020-02-25 16:06 data/shared/wheels/tracks/fendt/mt900Tracks.i3d (10.12 ms)
-2020-02-25 16:06 data/shared/assets/upperLinks/walterscheid04.i3d (0.81 ms)
-2020-02-25 16:06 data/vehicles/fendt/weight3300/weight3300.i3d (2.21 ms)
-2020-02-25 16:06 data/vehicles/duevelsdorf/MSS3000/MSS3000.i3d (3.81 ms)
-2020-02-25 16:06 data/placeables/limeStation/limeStation.i3d (10.70 ms)
-2020-02-25 16:06 data/placeables/mapDE/sellingStationGeneric/sellingStationGeneric.i3d (2.72 ms)
-2020-02-25 16:06 data/placeables/mapDE/railroadSilo01/railroadSilo01.i3d (1.66 ms)
-2020-02-25 16:06 data/placeables/mapDE/trainSystem/trainSystem.i3d (3.02 ms)
-2020-02-25 16:06 data/placeables/mapDE/gasStation/gasStation.i3d (0.39 ms)
-2020-02-25 16:06 data/placeables/mapDE/trainStationMill/trainStationMill.i3d (0.77 ms)
-2020-02-25 16:06 data/placeables/mapDE/railroadSilo02/railroadSilo02.i3d (0.94 ms)
-2020-02-25 16:06 data/placeables/mapDE/waterFillTriggers/waterFillTriggers.i3d (0.43 ms)
-2020-02-25 16:06 data/placeables/mapDE/bga/bga.i3d (2.33 ms)
-2020-02-25 16:06 data/placeables/mapDE/sellingStationWood/sellingStationWood.i3d (0.43 ms)
-2020-02-25 16:06 data/placeables/mapDE/grainElevatorEast/grainElevatorEast.i3d (0.75 ms)
-2020-02-25 16:06 data/placeables/animalHusbandry/husbandryHorseSmall.i3d (13.02 ms)
-2020-02-25 16:06 data/placeables/mapDE/sellingStationBales/sellingStationBales.i3d (0.57 ms)
-2020-02-25 16:06 data/placeables/bunkerSilo/bunkerSiloSmallDouble.i3d (2.18 ms)
-2020-02-25 16:06 data/placeables/mapDE/sellingStationVehicles/sellingStationVehicles.i3d (0.43 ms)
-2020-02-25 16:06 data/placeables/mapDE/sellingStationWool/sellingStationWool.i3d (0.43 ms)
-2020-02-25 16:06 data/placeables/mapDE/sellingStationWoodChips/sellingStationWoodChips.i3d (1.39 ms)
-2020-02-25 16:06 Warning (physics): Non-cpu collision mesh for 'kinematicHelper' is being cooked at runtime - this will not work on consoles.
-2020-02-25 16:06 dataS2/character/horse/horse.i3d (53.63 ms)
-2020-02-25 16:06   Info: Savegame Setting 'plantGrowthRate': 4
-2020-02-25 16:06 Disabled withering
-2020-02-25 16:06   Info: Savegame Setting 'limeRequired': false
-2020-02-25 16:06   Info: Savegame Setting 'fuelUsageLow': true
-2020-02-25 16:06 [EpicStoreManager] Query Ownership complete
-2020-02-25 16:06 [EpicStoreManager] Query Ownership error: 0
-2020-02-25 16:07   Setting 'Radio Volume': 0.5
-2020-02-25 16:07   Setting 'Vehicle Volume': 0.60000002384186
-2020-02-25 16:07   Setting 'Environment Volume': 0.60000002384186
-2020-02-25 16:07   Setting 'GUI Volume': 0.40000000596046
-2020-02-25 16:07   Info: Savegame Setting 'dirtInterval': 3
-2020-02-25 16:07   Info: Savegame Setting 'plantGrowthRate': 4
-2020-02-25 16:07   Info: Savegame Setting 'fuelUsageLow': true
-2020-02-25 16:07   Info: Savegame Setting 'plowingRequiredEnabled': true
-2020-02-25 16:07   Info: Savegame Setting 'weedsEnabled': true
-2020-02-25 16:07   Info: Savegame Setting 'limeRequired': false
-2020-02-25 16:07 dataS2/character/crow/crow.i3d (9.02 ms)
-2020-02-25 16:11 [EpicStoreManager] Query Ownership complete
-2020-02-25 16:11 [EpicStoreManager] Query Ownership error: 0
-2020-02-25 16:16 [EpicStoreManager] Query Ownership complete
-2020-02-25 16:16 [EpicStoreManager] Query Ownership error: 0
-2020-02-25 16:21 [EpicStoreManager] Query Ownership complete
-2020-02-25 16:21 [EpicStoreManager] Query Ownership error: 0
-2020-02-25 16:26 data/firstPerson/chainsaws/stihl/stihlMS261.i3d (10.80 ms)
-2020-02-25 16:26 data/firstPerson/chainsaws/chainsawRingSelector.i3d (1.88 ms)
-2020-02-25 16:26 [EpicStoreManager] Query Ownership complete
-2020-02-25 16:26 [EpicStoreManager] Query Ownership error: 0
-2020-02-25 16:31 [EpicStoreManager] Query Ownership complete
-2020-02-25 16:31 [EpicStoreManager] Query Ownership error: 0
-2020-02-25 16:36 [EpicStoreManager] Query Ownership complete
-2020-02-25 16:36 [EpicStoreManager] Query Ownership error: 0
-2020-02-25 16:41 [EpicStoreManager] Query Ownership complete
-2020-02-25 16:41 [EpicStoreManager] Query Ownership error: 0
-2020-02-25 16:46 dataS2/character/horse/horse.i3d (51.80 ms)
-2020-02-25 16:46 [EpicStoreManager] Query Ownership complete
-2020-02-25 16:46 [EpicStoreManager] Query Ownership error: 0
-2020-02-25 16:50 data/vehicles/strautmann/aperion3401/aperion3401.i3d (643.13 ms)
-2020-02-25 16:50 data/shared/assets/lights/lizard/sideMarker_01.i3d (112.32 ms)
-2020-02-25 16:50 data/shared/assets/lights/lizard/workingLightSquare_01.i3d (66.31 ms)
-2020-02-25 16:50 data/shared/assets/reflectors/lizard/whiteRound_01.i3d (52.72 ms)
-2020-02-25 16:51 [EpicStoreManager] Query Ownership complete
-2020-02-25 16:51 [EpicStoreManager] Query Ownership error: 0
-2020-02-25 16:56 [EpicStoreManager] Query Ownership complete
-2020-02-25 16:56 [EpicStoreManager] Query Ownership error: 0
-2020-02-25 17:02 [EpicStoreManager] Query Ownership complete
-2020-02-25 17:02 [EpicStoreManager] Query Ownership error: 0
-2020-02-25 17:07 [EpicStoreManager] Query Ownership complete
-2020-02-25 17:07 [EpicStoreManager] Query Ownership error: 0
-2020-02-25 17:12 [EpicStoreManager] Query Ownership complete
-2020-02-25 17:12 [EpicStoreManager] Query Ownership error: 0
-2020-02-25 17:17 [EpicStoreManager] Query Ownership complete
-2020-02-25 17:17 [EpicStoreManager] Query Ownership error: 0
-2020-02-25 17:22 [EpicStoreManager] Query Ownership complete
-2020-02-25 17:22 [EpicStoreManager] Query Ownership error: 0
-2020-02-25 17:27 [EpicStoreManager] Query Ownership complete
-2020-02-25 17:27 [EpicStoreManager] Query Ownership error: 0
-2020-02-25 17:32 [EpicStoreManager] Query Ownership complete
-2020-02-25 17:32 [EpicStoreManager] Query Ownership error: 0
-2020-02-25 17:37 [EpicStoreManager] Query Ownership complete
-2020-02-25 17:37 [EpicStoreManager] Query Ownership error: 0
-2020-02-25 17:37 Application quit
+Load mod: fs19_fraese (Version: 1.0.0.0) (Hash: 3353695f97c8f3c9b0de875e2f5540d1)
+Load mod: FS19_HorseHelper (Version: 1.0.0.0) (Hash: cf1a6d196f93a3233ae9238e86d5f3a9)
+dataS2/character/humans/characterAnimation.i3d (61.95 ms)
+dataS2/character/humans/pedestrians/pedestrianAnimation.i3d (26.87 ms)
+2020-02-25 22:18   Loaded specializations
+2020-02-25 22:18   Loaded vehicle types
+2020-02-25 22:18   Loaded placeable types
+2020-02-25 22:18 Started network game (10823)
+2020-02-25 22:18 Error: Startup with port while already running
+2020-02-25 22:18 [EpicStoreAuth] Query Ownership Token started
+2020-02-25 22:18 [EpicStoreAuth] Query Ownership Token complete
+2020-02-25 22:18 [EpicStoreAuth] Query Ownership Token started
+2020-02-25 22:18 [EpicStoreAuth] Query Ownership Token complete
+2020-02-25 22:18   Register configuration 'baseColor'
+2020-02-25 22:18   Register configuration 'design'
+2020-02-25 22:18   Register configuration 'designColor'
+2020-02-25 22:18   Register configuration 'vehicleType'
+2020-02-25 22:18   Register workAreaType 'RIDGEMARKER'
+2020-02-25 22:18   Register configuration 'attacherJoint'
+2020-02-25 22:18   Register workAreaType 'WEEDER'
+2020-02-25 22:18   Register workAreaType 'PLOW'
+2020-02-25 22:18   Register workAreaType 'DEFAULT'
+2020-02-25 22:18   Register workAreaType 'AUXILIARY'
+2020-02-25 22:18   Register configuration 'motor'
+2020-02-25 22:18   Register configuration 'frontloader'
+2020-02-25 22:18   Register workAreaType 'FORAGEWAGON'
+2020-02-25 22:18   Register configuration 'baseMaterial'
+2020-02-25 22:18   Register configuration 'designMaterial'
+2020-02-25 22:18   Register configuration 'wrappingColor'
+2020-02-25 22:18   Register configuration 'powerTakeOff'
+2020-02-25 22:18   Register configuration 'trailer'
+2020-02-25 22:18   Register workAreaType 'COMBINECHOPPER'
+2020-02-25 22:18   Register workAreaType 'COMBINESWATH'
+2020-02-25 22:18   Register workAreaType 'FRUITPREPARER'
+2020-02-25 22:18   Register workAreaType 'BALER'
+2020-02-25 22:18   Register configuration 'tensionBelts'
+2020-02-25 22:18   Register workAreaType 'MOWER'
+2020-02-25 22:18   Register workAreaType 'CULTIVATOR'
+2020-02-25 22:18   Register workAreaType 'SPRAYER'
+2020-02-25 22:18   Register configuration 'wheel'
+2020-02-25 22:18   Register configuration 'rimColor'
+2020-02-25 22:18   Register configuration 'pipe'
+2020-02-25 22:18   Register workAreaType 'SOWINGMACHINE'
+2020-02-25 22:18   Register workAreaType 'CUTTER'
+2020-02-25 22:18   Register workAreaType 'WINDROWER'
+2020-02-25 22:18   Register configuration 'inputAttacherJoint'
+2020-02-25 22:18   Register workAreaType 'TEDDER'
+2020-02-25 22:18   Register workAreaType 'ROLLER'
+2020-02-25 22:18   Register configuration 'cover'
+2020-02-25 22:18   Register configuration 'folding'
+2020-02-25 22:18   Register configuration 'fillUnit'
+2020-02-25 22:18   Register configuration 'buyableBaleAmount'
+2020-02-25 22:18   Register configuration 'fillVolume'
+2020-02-25 22:18 data/shared/connectionHoses/hoses.i3d (29.18 ms)
+2020-02-25 22:18 data/shared/connectionHoses/connectors.i3d (6.05 ms)
+2020-02-25 22:18 data/shared/connectionHoses/hoseMaterialHolder.i3d (1.11 ms)
+2020-02-25 22:18 data/objects/squarebales/baleStraw240.i3d (2.00 ms)
+2020-02-25 22:18 data/objects/squarebales/baleHay240.i3d (1.09 ms)
+2020-02-25 22:18 data/objects/squarebales/baleGrass240.i3d (1.36 ms)
+2020-02-25 22:18 data/objects/squarebales/kuhnSW4014/baleSilage240.i3d (2.15 ms)
+2020-02-25 22:18 data/objects/roundbales/roundbaleStraw_w112_d130.i3d (2.58 ms)
+2020-02-25 22:18 data/objects/roundbales/roundbaleHay_w112_d130.i3d (3.43 ms)
+2020-02-25 22:18 data/objects/roundbales/roundbaleGrass_w112_d130.i3d (1.53 ms)
+2020-02-25 22:18 data/objects/roundbales/roundbaleSilage_w112_d130.i3d (0.53 ms)
+2020-02-25 22:18 data/objects/cottonModules/cottonModule488.i3d (1.46 ms)
+2020-02-25 22:18 data/sky/sky.i3d (0.67 ms)
+2020-02-25 22:18 data/sky/rain.i3d (1.02 ms)
+2020-02-25 22:18 data/maps/mapDE.i3d (1545.71 ms)
+2020-02-25 22:18 data/foliage/wheat.i3d (6.80 ms)
+2020-02-25 22:18 data/foliage/grassDense.i3d (1.62 ms)
+2020-02-25 22:18 data/foliage/canola.i3d (3.90 ms)
+2020-02-25 22:18 data/foliage/barley.i3d (2.34 ms)
+2020-02-25 22:18 data/foliage/maize.i3d (8.19 ms)
+2020-02-25 22:18 data/foliage/decoFoliage.i3d (21.61 ms)
+2020-02-25 22:18 data/foliage/potato.i3d (4.24 ms)
+2020-02-25 22:18 data/foliage/potatoHaulm.i3d (1.03 ms)
+2020-02-25 22:18 data/foliage/sugarbeet.i3d (2.68 ms)
+2020-02-25 22:18 data/foliage/sugarbeetHaulm.i3d (0.65 ms)
+2020-02-25 22:18 data/foliage/sunflower.i3d (8.19 ms)
+2020-02-25 22:18 data/foliage/soybean.i3d (3.86 ms)
+2020-02-25 22:18 data/foliage/oilseedRadish.i3d (1.07 ms)
+2020-02-25 22:18 data/foliage/poplar.i3d (7.91 ms)
+2020-02-25 22:18 data/foliage/bush01.i3d (15.75 ms)
+2020-02-25 22:18 Info: transform group 'bush01' has elements very far out from the cell edge (29.61% expansion)
+2020-02-25 22:18 data/foliage/oat.i3d (4.39 ms)
+2020-02-25 22:18 data/foliage/sugarCane.i3d (7.60 ms)
+2020-02-25 22:18 data/foliage/sugarCaneHaulm.i3d (0.62 ms)
+2020-02-25 22:18 data/foliage/cotton.i3d (4.57 ms)
+2020-02-25 22:18 data/foliage/weed.i3d (5.20 ms)
+2020-02-25 22:18 Disabled withering
+2020-02-25 22:18 data/vehicles/train/locomotive01/locomotive01.i3d (45.02 ms)
+2020-02-25 22:18 data/store/ui/shop.i3d (33.22 ms)
+2020-02-25 22:18 data/shared/materialHolders/glowEffectMaterialHolder.i3d (0.42 ms)
+2020-02-25 22:18 data/store/ui/cube.i3d (2.28 ms)
+2020-02-25 22:18 data/store/ui/sphere.i3d (0.80 ms)
+2020-02-25 22:18 data/vehicles/train/wagonGrain/wagonGrain.i3d (36.68 ms)
+2020-02-25 22:18 data/vehicles/train/wagonWoodChips/wagonWoodChips.i3d (3.71 ms)
+2020-02-25 22:18 data/vehicles/train/wagonTimber/wagonTimber.i3d (3.57 ms)
+2020-02-25 22:18 data/vehicles/train/wagonSugarbeets/wagonSugarbeets.i3d (6.63 ms)
+2020-02-25 22:18 data/vehicles/train/wagonVehicles/wagonVehicles.i3d (3.04 ms)
+2020-02-25 22:18 data/vehicles/valtra/ASeries/ASeries.i3d (84.96 ms)
+2020-02-25 22:18 data/shared/wheels/hubs/hubs.i3d (19.96 ms)
+2020-02-25 22:18 data/particleSystems/shared/wheelEmitterShape.i3d (0.49 ms)
+2020-02-25 22:18 data/shared/wheels/trelleborg/TM600/R28_TM600.i3d (6.97 ms)
+2020-02-25 22:18 data/shared/wheels/rims/rim001.i3d (1.94 ms)
+2020-02-25 22:18 data/shared/wheels/trelleborg/TM600/R38_TM600.i3d (2.92 ms)
+2020-02-25 22:18 data/particleSystems/shared/exhaust.i3d (0.76 ms)
+2020-02-25 22:18 data/shared/assets/upperLinks/walterscheid03.i3d (2.07 ms)
+2020-02-25 22:18 data/shared/assets/toolbar.i3d (1.00 ms)
+2020-02-25 22:18 data/vehicles/rau/polymag300/polymag300.i3d (8.04 ms)
+2020-02-25 22:18 data/vehicles/fortschritt/hw80/hw80.i3d (25.97 ms)
+2020-02-25 22:18 data/shared/wheels/lizard/implement/R22_5_DS.i3d (1.18 ms)
+2020-02-25 22:18 data/shared/assets/wheelChocks/wheelChock01.i3d (1.16 ms)
+2020-02-25 22:18 data/shared/assets/lights/lizard/rear3ChamberLight_01.i3d (1.25 ms)
+2020-02-25 22:18 data/shared/assets/reflectors/lizard/redTriangle_01.i3d (1.30 ms)
+2020-02-25 22:18 data/shared/assets/reflectors/lizard/yellowRectangle_01.i3d (0.45 ms)
+2020-02-25 22:18 data/objects/bigBagContainer/bigBagContainer.i3d (6.46 ms)
+2020-02-25 22:18 data/vehicles/stara/stMax150/stMax150.i3d (74.66 ms)
+2020-02-25 22:18 data/shared/wheels/trelleborg/TM600/R30_TM600.i3d (1.47 ms)
+2020-02-25 22:18 data/shared/wheels/trelleborg/TM3000/R32_TM3000.i3d (6.15 ms)
+2020-02-25 22:18 data/shared/assets/lights/lizard/workingLightCircle_02.i3d (1.24 ms)
+2020-02-25 22:18 data/vehicles/vaderstad/rapid600S/rapid600s.i3d (36.32 ms)
+2020-02-25 22:18 data/shared/wheels/lizard/implement/R15.i3d (2.28 ms)
+2020-02-25 22:18 data/shared/assets/lights/lizard/rear2ChamberLight_05.i3d (1.24 ms)
+2020-02-25 22:18 data/shared/assets/lights/lizard/sideMarker_04White.i3d (1.04 ms)
+2020-02-25 22:18 data/shared/assets/reflectors/lizard/yellowRound_03.i3d (0.44 ms)
+2020-02-25 22:18 data/vehicles/kuhn/kuhnAxis402/kuhnAxis402.i3d (16.27 ms)
+2020-02-25 22:18 data/shared/assets/powerTakeOffs/walterscheidW.i3d (1.83 ms)
+2020-02-25 22:18 data/vehicles/joskin/joskinAquaTrans7300/joskinAquaTrans7300.i3d (10.59 ms)
+2020-02-25 22:18 data/shared/assets/wheelChocks/wheelChockSupport01.i3d (0.82 ms)
+2020-02-25 22:18 data/shared/wheels/trelleborg/T404/R22_5_T404.i3d (6.12 ms)
+2020-02-25 22:18 data/shared/assets/lights/lizard/rearMultipointLight_03.i3d (1.46 ms)
+2020-02-25 22:18 data/shared/assets/lights/lizard/sideMarker_04Orange.i3d (0.49 ms)
+2020-02-25 22:18 data/shared/assets/reflectors/lizard/bigTriangle.i3d (1.10 ms)
+2020-02-25 22:18 data/vehicles/stoll/stollFrontLoaderFZ/stollFrontLoaderFZ.i3d (5.11 ms)
+2020-02-25 22:18 data/vehicles/stoll/stollToolBaleFork/stollToolBaleFork.i3d (7.19 ms)
+2020-02-25 22:18 data/vehicles/kuhn/kuhnGMD4411/kuhnGMD4411.i3d (12.48 ms)
+2020-02-25 22:18 data/shared/assets/lights/lizard/rearLightCircleRed_01.i3d (1.35 ms)
+2020-02-25 22:18 data/vehicles/warzee/de551/de551.i3d (15.69 ms)
+2020-02-25 22:18 data/vehicles/vicon/viconFanex604/viconFanex604.i3d (13.64 ms)
+2020-02-25 22:18 data/shared/wheels/hubs/hubSmall01.i3d (1.11 ms)
+2020-02-25 22:18 data/shared/wheels/trelleborg/T510/R08_T510.i3d (1.42 ms)
+2020-02-25 22:18 data/shared/assets/lights/lizard/rear2ChamberLight_01.i3d (1.18 ms)
+2020-02-25 22:18 data/vehicles/kuhn/kuhnGA9531/kuhnGA9531.i3d (13.03 ms)
+2020-02-25 22:18 data/shared/wheels/trelleborg/AW305/R15_3_AW305.i3d (5.41 ms)
+2020-02-25 22:18 data/shared/assets/lights/lizard/frontLightRectangle_01.i3d (1.09 ms)
+2020-02-25 22:18 data/shared/assets/lights/lizard/rearLightCircleOrange_01.i3d (0.59 ms)
+2020-02-25 22:18 data/vehicles/strautmann/zelonCFS2501DO/zelonCFS2501DO.i3d (27.66 ms)
+2020-02-25 22:18 data/shared/wheels/trelleborg/AW309/R17_AW309.i3d (5.15 ms)
+2020-02-25 22:18 data/shared/assets/lights/lizard/rearPlateNumberLight_01.i3d (1.31 ms)
+2020-02-25 22:18 data/shared/assets/lights/lizard/workingLightSquare_02.i3d (1.17 ms)
+2020-02-25 22:18 data/shared/assets/lights/lizard/rear4ChamberLight_01.i3d (1.25 ms)
+2020-02-25 22:18 data/shared/assets/lights/lizard/sideMarker_03.i3d (1.29 ms)
+2020-02-25 22:18 data/shared/assets/powerTakeOffs/walterscheidWWZ.i3d (1.62 ms)
+2020-02-25 22:18 data/vehicles/kuhn/kuhnDeltis1302/kuhnDeltis1302.i3d (30.21 ms)
+2020-02-25 22:18 data/shared/assets/lights/lizard/rear2ChamberLight_03.i3d (1.34 ms)
+2020-02-25 22:18 data/shared/assets/lights/hella/hellaWorkingLightRound_02.i3d (1.26 ms)
+2020-02-25 22:18 data/shared/wheels/trelleborg/TM100/R36_TM100.i3d (5.73 ms)
+2020-02-25 22:18 data/shared/wheels/trelleborg/TM100/R48_TM100.i3d (1.29 ms)
+2020-02-25 22:18 data/vehicles/masseyFerguson/activa7347/activa7347.i3d (41.91 ms)
+2020-02-25 22:18 data/shared/wheels/trelleborg/TM2000/R32_TM2000.i3d (6.71 ms)
+2020-02-25 22:18 data/shared/wheels/trelleborg/TH400/R24_TH400.i3d (6.55 ms)
+2020-02-25 22:18 data/shared/assets/reflectors/lizard/redRectangle_01.i3d (0.45 ms)
+2020-02-25 22:18 data/shared/assets/lights/lizard/workingLightOval_02.i3d (1.20 ms)
+2020-02-25 22:18 data/shared/assets/beaconLights/lizard/beaconLight02.i3d (1.70 ms)
+2020-02-25 22:18 data/vehicles/masseyFerguson/freeflow/freeflow.i3d (25.80 ms)
+2020-02-25 22:18 data/vehicles/joskin/joskinBetimaxRDS7500/joskinBetimaxRDS7500.i3d (14.29 ms)
+2020-02-25 22:18 data/shared/assets/reflectors/lizard/redTriangle_02.i3d (0.46 ms)
+2020-02-25 22:18 data/vehicles/agromasz/agromaszPOH5/agromaszPOH5.i3d (16.37 ms)
+2020-02-25 22:18 data/shared/wheels/trelleborg/AW305/R12_AW305.i3d (0.61 ms)
+2020-02-25 22:18 data/objects/pallets/liquidTank/liquidTank.i3d (4.24 ms)
+2020-02-25 22:18 data/vehicles/stoll/stollToolShovel/stollToolShovel.i3d (0.84 ms)
+2020-02-25 22:18 data/vehicles/stoll/stollToolManureGrabFork/stollToolManureGrabFork.i3d (1.60 ms)
+2020-02-25 22:18 data/vehicles/grimme/varitron470/varitron470.i3d (128.38 ms)
+2020-02-25 22:18 data/shared/assets/extinguisher.i3d (1.41 ms)
+2020-02-25 22:18 data/shared/assets/camera_01.i3d (1.05 ms)
+2020-02-25 22:18 data/shared/assets/skfLincoln/skfLincoln01.i3d (1.83 ms)
+2020-02-25 22:18 data/shared/wheels/tracks/grimme/varitronTracks.i3d (11.13 ms)
+2020-02-25 22:18 data/shared/assets/lights/hella/hellaWorkingLightRound_01.i3d (1.41 ms)
+2020-02-25 22:18 data/shared/assets/reflectors/lizard/redRound_01.i3d (0.45 ms)
+2020-02-25 22:18 data/vehicles/fendt/fendt700/fendt700.i3d (44.57 ms)
+2020-02-25 22:18 data/shared/wheels/trelleborg/TM800/R30_TM800.i3d (5.74 ms)
+2020-02-25 22:18 data/shared/wheels/trelleborg/TM800/R42_TM800.i3d (1.29 ms)
+2020-02-25 22:18 data/shared/assets/beaconLights/lizard/beaconLight01.i3d (0.62 ms)
+2020-02-25 22:18 data/shared/assets/upperLinks/walterscheid01.i3d (0.71 ms)
+2020-02-25 22:18 data/vehicles/kroeger/TAW30/TAW30.i3d (19.95 ms)
+2020-02-25 22:18 data/shared/wheels/trelleborg/TwinRadial/R26_5_TwinRadial.i3d (3.37 ms)
+2020-02-25 22:18 data/shared/assets/lights/lizard/rear3ChamberLight_04.i3d (1.39 ms)
+2020-02-25 22:18 data/shared/assets/lights/lizard/sideMarker_04.i3d (1.18 ms)
+2020-02-25 22:18 data/shared/assets/lights/hella/hellaWorkingLightSquare_01.i3d (1.20 ms)
+2020-02-25 22:18 data/shared/assets/lights/lizard/sideMarker_10Orange.i3d (1.11 ms)
+2020-02-25 22:18 data/vehicles/fendt/mt900/mt900.i3d (78.88 ms)
+2020-02-25 22:18 data/shared/wheels/tracks/fendt/mt900Tracks.i3d (10.58 ms)
+2020-02-25 22:18 data/shared/assets/upperLinks/walterscheid04.i3d (0.79 ms)
+2020-02-25 22:18 data/vehicles/fendt/weight3300/weight3300.i3d (2.36 ms)
+2020-02-25 22:18 data/vehicles/duevelsdorf/MSS3000/MSS3000.i3d (4.19 ms)
+2020-02-25 22:18 data/vehicles/strautmann/aperion3401/aperion3401.i3d (25.68 ms)
+2020-02-25 22:18 data/shared/assets/lights/lizard/sideMarker_01.i3d (1.51 ms)
+2020-02-25 22:18 data/shared/assets/lights/lizard/workingLightSquare_01.i3d (1.08 ms)
+2020-02-25 22:18 data/shared/assets/reflectors/lizard/whiteRound_01.i3d (0.46 ms)
+2020-02-25 22:18 data/placeables/mapDE/sellingStationGeneric/sellingStationGeneric.i3d (3.09 ms)
+2020-02-25 22:18 data/placeables/mapDE/sellingStationBales/sellingStationBales.i3d (0.43 ms)
+2020-02-25 22:18 data/placeables/mapDE/sellingStationWoodChips/sellingStationWoodChips.i3d (1.47 ms)
+2020-02-25 22:18 data/placeables/mapDE/sellingStationWood/sellingStationWood.i3d (0.44 ms)
+2020-02-25 22:18 data/placeables/mapDE/sellingStationWool/sellingStationWool.i3d (0.42 ms)
+2020-02-25 22:18 data/placeables/mapDE/waterFillTriggers/waterFillTriggers.i3d (0.45 ms)
+2020-02-25 22:18 data/placeables/bunkerSilo/bunkerSiloSmallDouble.i3d (2.27 ms)
+2020-02-25 22:18 data/placeables/limeStation/limeStation.i3d (11.00 ms)
+2020-02-25 22:18 data/placeables/mapDE/bga/bga.i3d (1.79 ms)
+2020-02-25 22:18 data/placeables/mapDE/sellingStationVehicles/sellingStationVehicles.i3d (0.48 ms)
+2020-02-25 22:18 data/placeables/mapDE/gasStation/gasStation.i3d (0.41 ms)
+2020-02-25 22:18 data/placeables/mapDE/railroadSilo01/railroadSilo01.i3d (1.66 ms)
+2020-02-25 22:18 data/placeables/mapDE/trainStationMill/trainStationMill.i3d (0.80 ms)
+2020-02-25 22:18 data/placeables/animalHusbandry/husbandryHorseSmall.i3d (13.64 ms)
+2020-02-25 22:18 data/placeables/mapDE/railroadSilo02/railroadSilo02.i3d (0.99 ms)
+2020-02-25 22:18 data/placeables/mapDE/trainSystem/trainSystem.i3d (3.31 ms)
+2020-02-25 22:18 data/placeables/mapDE/grainElevatorEast/grainElevatorEast.i3d (0.82 ms)
+2020-02-25 22:18 dataS2/character/humans/player/player01.i3d (270.62 ms)
+2020-02-25 22:18   Setting 'Radio Volume': 0.5
+2020-02-25 22:18   Setting 'Vehicle Volume': 0.60000002384186
+2020-02-25 22:18   Setting 'Environment Volume': 0.60000002384186
+2020-02-25 22:18   Setting 'GUI Volume': 0.40000000596046
+2020-02-25 22:18   Info: Savegame Setting 'dirtInterval': 3
+2020-02-25 22:18   Info: Savegame Setting 'plantGrowthRate': 4
+2020-02-25 22:18   Info: Savegame Setting 'fuelUsageLow': true
+2020-02-25 22:18   Info: Savegame Setting 'plowingRequiredEnabled': true
+2020-02-25 22:18   Info: Savegame Setting 'weedsEnabled': true
+2020-02-25 22:18   Info: Savegame Setting 'limeRequired': false
+2020-02-25 22:18 Warning (physics): Non-cpu collision mesh for 'horse_main_component1' is being cooked at runtime - this will not work on consoles.
+2020-02-25 22:18 Warning (physics): Non-cpu collision mesh for 'horse_main_component1' is being cooked at runtime - this will not work on consoles.
+2020-02-25 22:18 Warning (physics): Non-cpu collision mesh for 'horse_main_component1' is being cooked at runtime - this will not work on consoles.
+2020-02-25 22:18 Warning (physics): Non-cpu collision mesh for 'horse_main_component1' is being cooked at runtime - this will not work on consoles.
+2020-02-25 22:18 Warning (physics): Non-cpu collision mesh for 'horse_main_component1' is being cooked at runtime - this will not work on consoles.
+2020-02-25 22:18 Warning (physics): Non-cpu collision mesh for 'horse_main_component1' is being cooked at runtime - this will not work on consoles.
+2020-02-25 22:18 Warning (physics): Non-cpu collision mesh for 'horse_main_component1' is being cooked at runtime - this will not work on consoles.
+2020-02-25 22:18 dataS2/character/humans/player/player02.i3d (199.74 ms)
+2020-02-25 22:18 Łukaszek joined the game
+2020-02-25 22:19 C:/Users/Bartuś/Documents/My games/FarmingSimulator2019/mods/fs19_fraese/Fraese.i3d (43.72 ms)
+2020-02-25 22:19 dataS2/character/crow/crow.i3d (8.91 ms)
+2020-02-25 22:22 Grzegorz joined the game
+2020-02-25 22:22 [EpicStoreManager] Query Ownership complete
+2020-02-25 22:22 [EpicStoreManager] Query Ownership error: 0
+2020-02-25 22:23 data/shared/ai/trafficCollision.i3d (0.51 ms)
+2020-02-25 22:26 C:/Users/Bartuś/Documents/My games/FarmingSimulator2019/mods/fs19_fraese/Fraese.i3d (42.56 ms)
+2020-02-25 22:27 [EpicStoreManager] Query Ownership complete
+2020-02-25 22:27 [EpicStoreManager] Query Ownership error: 0
+2020-02-25 22:32 [EpicStoreManager] Query Ownership complete
+2020-02-25 22:32 [EpicStoreManager] Query Ownership error: 0
+2020-02-25 22:34 data/shared/ai/trafficCollision.i3d (0.47 ms)
+2020-02-25 22:34 Game saved successfully.
+2020-02-25 22:35 data/vehicles/lemken/lemkenAzurit9/lemkenAzurit9.i3d (810.15 ms)
+2020-02-25 22:35 data/shared/assets/lights/lizard/frontLightCone_01.i3d (95.19 ms)
+2020-02-25 22:35 data/vehicles/lemken/lemkenSolitair23/lemkenSolitair23.i3d (250.88 ms)
+2020-02-25 22:35 data/shared/assets/lights/lizard/frontLightOval_03.i3d (69.41 ms)
+2020-02-25 22:35 data/shared/assets/lights/lizard/sideMarker_07Orange.i3d (74.86 ms)
+2020-02-25 22:37 [EpicStoreManager] Query Ownership complete
+2020-02-25 22:37 [EpicStoreManager] Query Ownership error: 0
+2020-02-25 22:42 [EpicStoreManager] Query Ownership complete
+2020-02-25 22:42 [EpicStoreManager] Query Ownership error: 0
+2020-02-25 22:46 data/vehicles/caseIH/puma/puma.i3d (1030.51 ms)
+2020-02-25 22:46 data/shared/wheels/trelleborg/TM100/R38_TM100.i3d (48.84 ms)
+2020-02-25 22:46 data/shared/wheels/trelleborg/TM100/R52_TM100.i3d (31.60 ms)
+2020-02-25 22:46 data/shared/assets/lights/lizard/frontLight_01.i3d (33.94 ms)
+2020-02-25 22:46 data/shared/assets/lights/lizard/workingLightOval_03.i3d (34.49 ms)
+2020-02-25 22:46 data/shared/assets/beaconLights/lizard/beaconLight01.i3d (0.54 ms)
+2020-02-25 22:46 data/vehicles/bredal/K165/K165.i3d (660.11 ms)
+2020-02-25 22:46 data/shared/wheels/trelleborg/T404/R30_5_T404.i3d (44.67 ms)
+2020-02-25 22:46 data/shared/assets/lights/lizard/rear3ChamberLight_03.i3d (61.52 ms)
+2020-02-25 22:46 data/shared/assets/lights/lizard/sideMarker_09White.i3d (35.80 ms)
+2020-02-25 22:46 data/shared/assets/lights/lizard/sideMarker_09Orange.i3d (19.87 ms)
+2020-02-25 22:46 data/vehicles/agco/weight1100/weight1100.i3d (152.78 ms)
+2020-02-25 22:47 [EpicStoreManager] Query Ownership complete
+2020-02-25 22:47 [EpicStoreManager] Query Ownership error: 0
+2020-02-25 22:51 data/vehicles/johnDeere/series6R/series6R.i3d (1754.33 ms)
+2020-02-25 22:51 data/shared/assets/starfire.i3d (86.09 ms)
+2020-02-25 22:51 data/shared/wheels/trelleborg/TM900/R30_TM900.i3d (103.70 ms)
+2020-02-25 22:51 data/shared/wheels/trelleborg/TM900/R38_TM900.i3d (50.14 ms)
+2020-02-25 22:51 data/shared/assets/beaconLights/lizard/beaconLight07.i3d (68.50 ms)
+2020-02-25 22:51 data/shared/assets/upperLinks/johnDeereUpperlink.i3d (64.16 ms)
+2020-02-25 22:52 [EpicStoreManager] Query Ownership complete
+2020-02-25 22:52 [EpicStoreManager] Query Ownership error: 0
+2020-02-25 22:53 Game saved successfully.
+2020-02-25 22:55 data/vehicles/amazone/catros6002/catros6002.i3d (708.50 ms)
+2020-02-25 22:55 data/shared/assets/lights/lizard/sideMarker_06Red.i3d (49.71 ms)
+2020-02-25 22:55 data/shared/assets/lights/lizard/rear2ChamberLight_04.i3d (59.73 ms)
+2020-02-25 22:57 [EpicStoreManager] Query Ownership complete
+2020-02-25 22:57 [EpicStoreManager] Query Ownership error: 0
+2020-02-25 23:02 [EpicStoreManager] Query Ownership complete
+2020-02-25 23:02 [EpicStoreManager] Query Ownership error: 0
+2020-02-25 23:05 data/vehicles/johnDeere/series8R/series8R.i3d (1425.75 ms)
+2020-02-25 23:05 data/shared/wheels/rims/rim006.i3d (99.97 ms)
+2020-02-25 23:05 data/shared/wheels/trelleborg/TM900/R42_TM900.i3d (40.49 ms)
+2020-02-25 23:05 data/shared/wheels/rims/rim007.i3d (106.15 ms)
+2020-02-25 23:05 data/shared/wheels/weights/weight004.i3d (77.81 ms)
+2020-02-25 23:05 data/shared/assets/reflectors/lizard/redRound_02.i3d (6.61 ms)
+2020-02-25 23:05 data/vehicles/stara/estrela32/estrela32.i3d (874.59 ms)
+2020-02-25 23:05 data/shared/wheels/trelleborg/T421/R17_T421.i3d (72.10 ms)
+2020-02-25 23:07 [EpicStoreManager] Query Ownership complete
+2020-02-25 23:07 [EpicStoreManager] Query Ownership error: 0
+2020-02-25 23:12 [EpicStoreManager] Query Ownership complete
+2020-02-25 23:12 [EpicStoreManager] Query Ownership error: 0
+2020-02-25 23:14 Game saved successfully.
+2020-02-25 23:17 [EpicStoreManager] Query Ownership complete
+2020-02-25 23:17 [EpicStoreManager] Query Ownership error: 0
+2020-02-25 23:22 [EpicStoreManager] Query Ownership complete
+2020-02-25 23:22 [EpicStoreManager] Query Ownership error: 0
+2020-02-25 23:27 [EpicStoreManager] Query Ownership complete
+2020-02-25 23:27 [EpicStoreManager] Query Ownership error: 0
+2020-02-25 23:32 [EpicStoreManager] Query Ownership complete
+2020-02-25 23:32 [EpicStoreManager] Query Ownership error: 0
+2020-02-25 23:34 Game saved successfully.
+2020-02-25 23:36 data/firstPerson/chainsaws/stihl/stihlMS261.i3d (50.62 ms)
+2020-02-25 23:36 data/firstPerson/chainsaws/chainsawRingSelector.i3d (8.78 ms)
+2020-02-25 23:37 [EpicStoreManager] Query Ownership complete
+2020-02-25 23:37 [EpicStoreManager] Query Ownership error: 0
+2020-02-25 23:41 data/vehicles/valtra/NSeries/NSeries.i3d (1174.73 ms)
+2020-02-25 23:41 data/vehicles/kuhn/kuhnPF1500/kuhnPF1500.i3d (88.28 ms)
+2020-02-25 23:41 data/shared/assets/lights/lizard/workingLightOval_01.i3d (30.20 ms)
+2020-02-25 23:41 data/shared/assets/lights/lizard/rear2ChamberLight_02.i3d (66.95 ms)
+2020-02-25 23:42 [EpicStoreManager] Query Ownership complete
+2020-02-25 23:42 [EpicStoreManager] Query Ownership error: 0
+2020-02-25 23:47 [EpicStoreManager] Query Ownership complete
+2020-02-25 23:47 [EpicStoreManager] Query Ownership error: 0
+2020-02-25 23:52 [EpicStoreManager] Query Ownership complete
+2020-02-25 23:52 [EpicStoreManager] Query Ownership error: 0
+2020-02-25 23:57 [EpicStoreManager] Query Ownership complete
+2020-02-25 23:57 [EpicStoreManager] Query Ownership error: 0
+2020-02-25 23:57 Game saved successfully.
+2020-02-25 23:57 data/vehicles/agco/ideal9/IDEAL9.i3d (1295.28 ms)
+2020-02-25 23:57 data/shared/wheels/trelleborg/TM800/R28_TM800.i3d (62.11 ms)
+2020-02-25 23:57 data/shared/wheels/crawlers/agco/agcoCrawlerBelt.i3d (259.75 ms)
+2020-02-25 23:57 data/shared/assets/beaconLights/lizard/beaconLight06.i3d (42.99 ms)
+2020-02-25 23:57 data/vehicles/agco/dynaFlex9255/dynaFlex9255.i3d (1005.16 ms)
+2020-02-25 23:57 data/vehicles/thueringerAgrar/leguan40/leguan40.i3d (641.83 ms)
+2020-02-25 23:57 data/shared/assets/wheelChocks/wheelChock02.i3d (29.84 ms)
+2020-02-25 23:57 data/shared/assets/beaconLights/lizard/beaconLight01.i3d (0.57 ms)
+2020-02-25 23:57 data/vehicles/fendt/fendt900/fendt900.i3d (717.85 ms)
+2020-02-25 23:57 data/shared/wheels/trelleborg/TM900/R34_TM900.i3d (46.47 ms)
+2020-02-25 23:57 data/shared/wheels/trelleborg/TM900/R42_TM900.i3d (1.75 ms)
+2020-02-25 23:57 data/vehicles/kroeger/TKD302/TKD302.i3d (271.53 ms)
+2020-02-25 23:57 data/shared/wheels/trelleborg/TwinRadial/R22_5_TwinRadial.i3d (39.10 ms)
+2020-02-25 23:57 data/vehicles/kroeger/HKD302/HKD302.i3d (373.77 ms)
+2020-02-26 00:02 [EpicStoreManager] Query Ownership complete
+2020-02-26 00:02 [EpicStoreManager] Query Ownership error: 0
+2020-02-26 00:07 [EpicStoreManager] Query Ownership complete
+2020-02-26 00:07 [EpicStoreManager] Query Ownership error: 0
+2020-02-26 00:12 [EpicStoreManager] Query Ownership complete
+2020-02-26 00:12 [EpicStoreManager] Query Ownership error: 0
+2020-02-26 00:13 Game saved successfully.
+2020-02-26 00:17 [EpicStoreManager] Query Ownership complete
+2020-02-26 00:17 [EpicStoreManager] Query Ownership error: 0
+2020-02-26 00:18 data/vehicles/poettinger/mex5/mex5.i3d (500.43 ms)
+2020-02-26 00:22 [EpicStoreManager] Query Ownership complete
+2020-02-26 00:22 [EpicStoreManager] Query Ownership error: 0
+2020-02-26 00:27 [EpicStoreManager] Query Ownership complete
+2020-02-26 00:27 [EpicStoreManager] Query Ownership error: 0
+2020-02-26 00:31 Game saved successfully.
+2020-02-26 00:32 [EpicStoreManager] Query Ownership complete
+2020-02-26 00:32 [EpicStoreManager] Query Ownership error: 0
+2020-02-26 00:37 [EpicStoreManager] Query Ownership complete
+2020-02-26 00:37 [EpicStoreManager] Query Ownership error: 0
+2020-02-26 00:42 [EpicStoreManager] Query Ownership complete
+2020-02-26 00:42 [EpicStoreManager] Query Ownership error: 0
+2020-02-26 00:46 Game saved successfully.
+2020-02-26 00:47 [EpicStoreManager] Query Ownership complete
+2020-02-26 00:47 [EpicStoreManager] Query Ownership error: 0
+2020-02-26 00:52 [EpicStoreManager] Query Ownership complete
+2020-02-26 00:52 [EpicStoreManager] Query Ownership error: 0
+2020-02-26 00:54 Asia joined the game
+2020-02-26 00:54 Warning (physics): Non-cpu collision mesh for 'kinematicHelper' is being cooked at runtime - this will not work on consoles.
+2020-02-26 00:57 [EpicStoreManager] Query Ownership complete
+2020-02-26 00:57 [EpicStoreManager] Query Ownership error: 0
+2020-02-26 00:57 dataS2/character/horse/horse.i3d (55.73 ms)
+2020-02-26 01:01 Game saved successfully.
+2020-02-26 01:02 [EpicStoreManager] Query Ownership complete
+2020-02-26 01:02 [EpicStoreManager] Query Ownership error: 0
+2020-02-26 01:03 dataS2/character/horse/horse.i3d (54.35 ms)
+2020-02-26 01:04 Asia left the game
+2020-02-26 01:04 Grzegorz left the game
+2020-02-26 01:04 Łukaszek left the game
+2020-02-26 01:04 [EpicStoreAuth] Query Ownership Token started
+2020-02-26 01:05 [EpicStoreAuth] Query Ownership Token error: 1
+2020-02-26 01:05 [EpicStoreAuth] Query Ownership Token started
+2020-02-26 01:05 [EpicStoreAuth] Query Ownership Token error: 19
+2020-02-26 01:05 [EpicStoreAuth] Query Ownership Token started
+2020-02-26 01:06 [EpicStoreAuth] Query Ownership Token error: 19
+2020-02-26 01:06 [EpicStoreAuth] Query Ownership Token error: 19
+2020-02-26 01:06 Game saved successfully.
+Physics System
+  Version: 5.9.5
+  Thread(s): 2
+Input System
+  Keyboard enabled
+  Mouse enabled
+  Gamepad/Joystick enabled
+  Force Feedback disabled
+Audio System
+  Driver: SoftMixer WASAPI Stereo
+  Version: 2018.11
+  Frequency: 48000
+  Max. active sources: 256
+Render System
+  Driver: Direct 3D 11
+  Card Vendor: NVIDIA Corporation
+  Renderer: NVIDIA GeForce GTX 1050 Ti
+  Version: 26.21.14.3123 (24.6.2019)
+  Revision: 161
+  Feature level: DirectX 11
+  Windowed Mode : off
+  V-Sync        : on
+  Effective Window Resolution:  1920 x 1080
+Started 3 threads for threadpool 'Render threadpool'
+Hardware Profile
+  Level: High (forced)
+  View Distance Factor: 1.100000
+  Shadow Quality: 1.000000 Base-Size: 2048 Filter-Size: 16 Shadow Focus Box false
+  Shader Quality: 2
+  Skip Mipmaps: 0
+  LOD Distance Factor: 1.100000
+  Terrain LOD Distance Factor: 1.500000
+  Terrain Normal Mapping: Yes
+  Foliage View Distance Factor: 1.400000
+  Volume Mesh Tessellation Factor: 0.850000
+  Tyre Tracks Segments Factor: 2.000000
+  Max. Number of Shadow Lights: 3
+  Max. Number of Lights: 512
+  Max. Number of Lights Per Cluster: 32
+  MSAA: 2
+  Bloom Quality: 4
+  SSAO Quality: 12
+  DOF: Enabled
+  Cloud Quality: 3
+  EnvMap Blending: Enabled
+Warning: Mod-List download failed... retry in 2.000041 s. 0 trail
+Warning: Mod-List download failed... retry in 4.018467 s. 1 trail

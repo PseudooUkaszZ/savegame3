@@ -1,0 +1,59 @@
+﻿<careerSavegame revision="2" valid="true">
+    <settings>
+        <savegameName>Mój zapis gry</savegameName>
+        <mapId>MapDE</mapId>
+        <mapTitle>Felsbrunn</mapTitle>
+        <saveDate>25/02/2020</saveDate>
+        <playerModelIndex>1</playerModelIndex>
+        <playerColorIndex>2</playerColorIndex>
+        <playerBodyIndex>1</playerBodyIndex>
+        <playerHatIndex>0</playerHatIndex>
+        <playerAccessoryIndex>0</playerAccessoryIndex>
+        <playerHairIndex>1</playerHairIndex>
+        <playerJacketIndex>0</playerJacketIndex>
+        <playerName>Bartuś</playerName>
+        <resetVehicles>false</resetVehicles>
+        <isPlantWitheringEnabled>false</isPlantWitheringEnabled>
+        <trafficEnabled>true</trafficEnabled>
+        <stopAndGoBraking>false</stopAndGoBraking>
+        <automaticMotorStartEnabled>true</automaticMotorStartEnabled>
+        <fruitDestruction>true</fruitDestruction>
+        <plowingRequiredEnabled>true</plowingRequiredEnabled>
+        <weedsEnabled>true</weedsEnabled>
+        <limeRequired>false</limeRequired>
+        <fuelUsageLow>true</fuelUsageLow>
+        <helperBuyFuel>true</helperBuyFuel>
+        <helperBuySeeds>true</helperBuySeeds>
+        <helperBuyFertilizer>true</helperBuyFertilizer>
+        <helperSlurrySource>2</helperSlurrySource>
+        <helperManureSource>2</helperManureSource>
+        <densityMapRevision>3</densityMapRevision>
+        <terrainLodTextureRevision>2</terrainLodTextureRevision>
+        <splitShapesRevision>1</splitShapesRevision>
+        <tipCollisionRevision>1</tipCollisionRevision>
+        <placementCollisionRevision>1</placementCollisionRevision>
+        <mapDensityMapRevision>1</mapDensityMapRevision>
+        <mapTerrainLodTextureRevision>1</mapTerrainLodTextureRevision>
+        <mapSplitShapesRevision>1</mapSplitShapesRevision>
+        <mapTipCollisionRevision>1</mapTipCollisionRevision>
+        <mapPlacementCollisionRevision>1</mapPlacementCollisionRevision>
+        <difficulty>3</difficulty>
+        <economicDifficulty>2</economicDifficulty>
+        <plantGrowthRate>4</plantGrowthRate>
+        <dirtInterval>3</dirtInterval>
+        <timeScale>1.000000</timeScale>
+        <autoSaveInterval>15.000000</autoSaveInterval>
+    </settings>
+    <map>
+        <foundHelpIcons>00000000000000000000</foundHelpIcons>
+    </map>
+    <statistics>
+        <money>-17400</money>
+        <playTime>1222.401978</playTime>
+    </statistics>
+    <mapsSplitShapeFileIds count="1">
+        <id id="0"/>
+    </mapsSplitShapeFileIds>
+    <mod modName="fs19_fraese" title="Milling Machine" version="1.0.0.0" required="false" fileHash="3353695f97c8f3c9b0de875e2f5540d1"/>
+    <mod modName="FS19_HorseHelper" title="HorseHelper" version="1.0.0.0" required="false" fileHash="cf1a6d196f93a3233ae9238e86d5f3a9"/>
+</careerSavegame>
